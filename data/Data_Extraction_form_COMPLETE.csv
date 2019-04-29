@@ -1,0 +1,976 @@
+RecordID;RecordNumber;Journal;Year;Name of main author;Number of co-authors;Number of citations;Years of study;Number of years;Country of study;Spatial scale;Country of lead author (institution);Species / taxa;Taxa group1;Biological organisation;Scope;Study design;Clearly stated hypothesis;Test of existing hypothesis;Test multiple competing hypotheses;Testable predictions ;Generality: taxonomy;Generality: Environmental gradients;Ecological question;Extractor;Reference
+47;13;AnimCons;2015;Mortelliti;2;4;1999-2013;15;Australia;Landscape;Australia;Scincidae;Vertebrates;Population;Ecological processes;Quasi experimental;0;0;0;0;0;1;"We chose two skinks (Scincidae) as target species: the southern rainbow skink Carlia tetradactyla and the eastern three-toed earless skink Hemiergis talbingoensis. The aim of our study was to quantify the long-term response of these two target species to the transformation of the matrix surrounding
+remnant habitat patches (from agricultural land to
+pine plantations).";EBN;"Mortelliti, A., Michael, D.R. & Lindenmayer, D.B. (2015) Contrasting effects of pine plantations on two skinks: results from a large-scale ""natural experiment' in Australia. Animal Conservation, 18, 433-441."
+91;119;AnimCons;2014;Lovari;6;15;1972-2010;39;Italy;Landscape;Italy;"Rupicapra pyrenaica ornata; Cervus elaphus";Vertebrates;Population;Ecological processes;Non experimental;2;1;0;1;1;1;"We investigated space and diet overlaps
+between red deer and Apennine chamois, and their effects on foraging behaviour
+of the latter";DB;Lovari, S., Ferretti, F., Corazza, M., Minder, I., Troiani, N., Ferrari, C. & Saddi, A. (2014) Unexpected consequences of reintroductions: competition between increasing red deer and threatened Apennine chamois. Animal Conservation, 17, 359-370.
+7;146;AnimCons;2014;Ghanem;1;2;2010;1;Ecuador;Landscape;Germany;Chiroptera;Vertebrates;Population;Ecological processes;Non experimental;2;0;0;1;0;1;"We investigated
+if the loss of larger mammals due to hunting and
+disturbance indirectly affects the relative abundance of frugivorous
+bats at mineral licks. We expected mineral licks to
+show first signs of deterioration in areas with intensive
+hunting due to the lack of large mammals that maintain
+licks. Accordingly, we expected leaf litter and seedling coverage
+to be higher while water availability was expected to
+be lower in disrupted compared with natural licks, leading
+to a reduced overall accessibility of minerals and soil to
+frugivorous bats. Accordingly, we expected to capture fewer
+frugivorous bats at disrupted than at natural mineral licks.";EBN;Ghanem, S.J. & Voigt, C.C. (2014) Defaunation of tropical forests reduces habitat quality for seed-dispersing bats in Western Amazonia: an unexpected connection via mineral licks. Animal Conservation, 17, 44-51.
+16;194;AnimCons;2013;Espanola;2;5;2000-2010;11;Philippine;Landscape;UK  ;Aves;Vertebrates;Community;Natural history;Non experimental;0;0;0;0;0;0;"Our study assessed the current state of populations of
+multiple frugivorous species (pigeons and hornbills as seed
+dispersers, parrots as heavily exploited and seriously threatened
+seed predators) across Luzon, the largest island in the
+Philippines, in order to gauge the potential long-term persistence
+for individual species and frugivore communities.
+First, we attempted to detect range contractions by comparing
+past and current distribution using occurrence data
+compiled from the published literature and our field surveys.
+Then we estimated population densities at a number of key
+sites and compared them with those of related species elsewhere
+in Southeast Asia. We then asked whether estimated
+populations of frugivores in key protected areas were likely
+to be large enough to remain viable in the long term.";EBN;Espanola, C.P., Collar, N.J. & Marsden, S.J. (2013) Are populations of large-bodied avian frugivores on Luzon, Philippines, facing imminent collapse? Animal Conservation, 16, 467-479.
+153;317;AnimCons;2011;Goswami;3;7;NA;NA;India;Landscape;India;Elephas maximus;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;2;"We address these key problems by
+describing an automated process of rapidly identifying individual Asian elephants
+(Elephas maximus) from photographs, and comparing resultant CR-based population
+parameter estimates with those obtained using supervised visual identification
+of individuals";DB;Goswami, V.R., Lauretta, M.V., Madhusudan, M.D. & Karanth, K.U. (2012) Optimizing individual identification and survey effort for photographic capture-recapture sampling of species with temporally variable morphological traits. Animal Conservation, 15, 174-183.
+55;319;AnimCons;2012;Vynne;3;22;2004-2008;5;Brazil;Landscape;USA;Chrysocyon brachyurus;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;2;"We present results from a 4-year study that employed
+detection dogs to survey scats of wild maned wolves
+(Chrysocyon brachyurus) in Brazil (Vynne et al., 2011). Scat
+detection dogs enable efficient sampling of wildlife populations
+(Long et al., 2007; Vynne et al., 2011), yet the effectiveness
+of this sampling method means that a large number
+of old and degraded samples are encountered. Because
+factors influencing ability to extract DNA from maned wolf
+scat had not been studied, and because samples collected in
+the tropics may be particularly susceptible to degradation of
+DNA and hormones, we sought to quantify factors affecting
+sample quality of field-collected scat. We examined the
+influence of extraction method, habitat and season in which
+the sample was collected, sample condition (moisture level,
+strength of odor, presence of mold or invertebrates on the
+sample) and food items (amount of fruit) on the ability to
+amplify DNA. To determine whether sample quality influences
+hormone levels, we measured fecal glucocorticoid
+metabolites and thyroid hormone levels in samples and analyzed
+these mean values with respect to whether or not the
+sample amplified nuclear DNA (nDNA), and the amount of
+odor, moisture and fruit in the sample.";EBN;Vynne, C., Baker, M.R., Breuer, Z.K. & Wasser, S.K. (2012) Factors influencing degradation of DNA and hormones in maned wolf scat. Animal Conservation, 15, 184-194.
+155;385;AnimCons;2011;Greve;4;16;2005-2006;2;South Africa;Landscape;South Africa;Birds;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;2;2;"In this paper, we provide one of the most detailed
+comparisons to date of the biodiversity found inside and
+outside PAs for a taxonomic group for which the designation
+of these areas was not a primary or necessarily intentional
+goal";DB;Greve, M., Chown, S.L., van Rensburg, B.J., Dallimer, M. & Gaston, K.J. (2011) The ecological effectiveness of protected areas: a case study for South African birds. Animal Conservation, 14, 295-305.
+148;386;AnimCons;2011;Alda;3;11;2002-2004;3;Spain;Landscape;Spain;Tetrao urogallus cantabricus;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;0;0;"the objective of our study was to characterize the genetic
+structure across the entire distribution range of the subspecies,
+and to determine whether there is a significant effect of
+forest fragmentation and on its genetic diversity";DB;Alda, F., Sastre, P., De La Cruz-Cardiel, P.J. & Doadrio, I. (2011) Population genetics of the endangered Cantabrian capercaillie in northern Spain. Animal Conservation, 14, 249-260.
+14;399;AnimCons;2011;Licona;4;11;2008-2009;2;Peru;Landscape;USA;Ungulates (deer, peccary, tapir);Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"The goal of our study was to
+determine whether area designation, anthropogenic factors
+or habitat characteristics influenced the occurrence of ungulates
+in the Amazon rainforest of south-eastern Peru. Our
+objectives were to (1) determine whether community-based
+conservation within a biosphere reserve framework influenced
+the occurrence of lowland tapir, white-lipped peccary,
+collared peccary, red brocket deer and grey brocket deer; (2)
+determine how human access to the forest influenced ungulate
+occurrence; (3) identify habitat characteristics influencing
+ungulate occurrence; (4) make recommendations for the selection of protected areas and management of Neotropical
+ungulates.";EBN;Licona, M., McCleery, R., Collier, B., Brightsmith, D.J. & Lopez, R. (2011) Using ungulate occurrence to evaluate community-based conservation within a biosphere reserve model. Animal Conservation, 14, 206-214.
+23;427;AnimCons;2010;Navarro-Gonzalez;6;7;2001-2008;8;Spain;Landscape;Spain;Oryctolagus cuniculus;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;0;1;"In this work, we aim to illustrate the fact that
+the combination of the population abundance of each hunting estate together with the intensity of restocking predisposed to the presence of mange. We also describe the population trend in mange-affected versus non-affected hunting estates.";EBN;Navarro-Gonzalez, N., Serrano, E., Casas-Diaz, E., Velarde, R., Marco, I., Rossi, L. & Lavin, S. (2010) Game restocking and the introduction of sarcoptic mange in wild rabbit in north-eastern Spain. Animal Conservation, 13, 586-591.
+157;476;AnimCons;2010;Martin;4;14;2007-2008;2;Spain;Landscape;Spain;"Pterocles alchata; Tetrax tetrax";Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"We studied the
+habitat use of pin-tailed sandgrouses Pterocles alchata and their association with
+another vulnerable species, the little bustard Tetrax tetrax in agrarian pseudosteppes
+of central Spain using radio-tracking";DB;Martin, C.A., Casas, F., Mougeot, F., Garcia, J.T. & Vinuela, J. (2010) Positive interactions between vulnerable species in agrarian pseudo-steppes: habitat use by pin-tailed sandgrouse depends on its association with the little bustard. Animal Conservation, 13, 383-389.
+32;542;AnimCons;2009;Dickens;3;9;2006-2007;2;USA;Local;USA;Alectoris chukar;Vertebrates;Population;Ecological processes;Quasi experimental;1;0;0;0;0;1;"Our objective was to assess and distinguish between the effects of capture, handling and translocation to a novel location on the postrelease
+behavior of chukar. Across two field seasons, 2006
+and 2007, we assigned birds to three groups: (1) Trap/ Release, animals trapped at their home site and immediately released to assess the effects of one-time handling; (2) Captivity/Return, animals captured and brought into captivity for 10 days and returned to their home site to assess the effects of handling, transport and captivity; (3) Captivity/ Translocate, animals that underwent the same process as the previous group but were released at a new site to assess the overall effects of ranslocation procedures. We recaptured individuals post-release at five different man-made water sources. Here we report the propensity for translocated individuals to disperse and return to their original site of capture (the ‘home site’) or remain at the release site depending on translocated distance, differences in rainfall between seasons and water source type.";EBN;Dickens, M.J., Delehanty, D.J., Reed, J.M. & Romero, L.M. (2009) What happens to translocated game birds that 'disappear'? Animal Conservation, 12, 418-425.
+151;567;AnimCons;2009;Letnic;2;65;2007;1;Australia;Landscape;Australia;Notomys fuscus, Canis lupus dingo;Vertebrates;Population;Ecological processes;Quasi experimental;3;1;0;1;2;2;"In this study, we used an endangered rodent, the dusky
+hopping mouse Notomys fuscus, as a model species to
+investigate the relative role of dingoes, rainfall and purported
+threatening processes in determining the abundance of Australian
+rodents";DB;Letnic, M., Crowther, M.S. & Koch, F. (2009) Does a top-predator provide an endangered rodent with refuge from an invasive mesopredator? Animal Conservation, 12, 302-312.
+152;568;AnimCons;2009;Magle;1;12;2002;1;USA;Landscape;USA;Cynomys ludovicianus;Vertebrates;Population;Ecological processes;Non experimental;3;1;0;1;1;2;"The goal of our study was to evaluate which factors most
+strongly influence the distribution of a highly interactive
+species, the black-tailed prairie dog, along a gradient of
+urbanization in shortgrass prairie fragments in the rapidly
+developing landscape of the Colorado Front Range";DB;Magle, S.B. & Crooks, K.R. (2009) Investigating the distribution of prairie dogs in an urban landscape. Animal Conservation, 12, 192-203.
+128;575;AnimCons;2008;Lyet;3;24;2003-2004;2;France;Local;France;Vipera ursinii;Vertebrates;Population;Ecological processes;Quasi experimental;2;0;0;1;1;1;"The aim of our study was to estimate the impact of
+prescribed fire on the survival and small-scale movements
+of a highly endangered snake, the Orsini’s viper Vipera
+ursinii. We first expected fire to increase the mortality
+of the viper, either by direct and short-term impact, or by
+delayed effects. Furthermore, the degradation of ecological
+conditions after fire may induce a post-fire emigration from
+burned to unburned areas";DB;Lyet, A., Cheylan, M., Prodon, R. & Besnard, A. (2009) Prescribed fire and conservation of a threatened mountain grassland specialist: a capture-recapture study on the Orsini's viper in the French alps. Animal Conservation, 12, 238-248.
+109;708;AnimCons;2007;Reed;2;52;2002-2004;3;USA;Landscape;USA;Rabidosa;Invertebrates;Population;Ecological processes;Non experimental;0;0;0;0;2;2;"We were interested in
+finding in whether the mean fitness (genetic quality) of
+individuals impacts the realized population growth rate
+despite density-dependent population dynamics.";DB;Reed, D.H., Nicholas, A.C. & Stratton, G.E. (2007) Genetic quality of individuals impacts population dynamics. Animal Conservation, 10, 275-283.
+96;718;AnimCons;2007;López-López;4;27;2000-2005;6;Spain;Landscape;Spain;Aquila chrysaetos;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;0;"We use a
+multi-scale modelling approach to identify nesting habitat
+preferences of a population of golden eagles in the east of
+the Iberian Peninsula";DB;Lopez-Lopez, P., Garcia-Ripolles, C., Soutullo, A., Cadahia, L. & Urios, V. (2007) Identifying potentially suitable nesting habitat for golden eagles applied to 'important bird areas' design. Animal Conservation, 10, 208-218.
+49;818;AnimCons;2005;Dzialak;4;13;2001-2003;3;USA;Landscape;USA;Falco peregrinus;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;1;1;The objective of this study was to compare dispersal initiation by peregrines reintroduced in two landscapes specifically chosen for their contrasting habitat configurations and to evaluate landscape influences on dispersal.;EBN;Dzialak, M.R., Lacki, M.J., Larkin, J.L., Carter, K.M. & Vorisek, S. (2005) Corridors affect dispersal initiation in reintroduced peregrine falcons. Animal Conservation, 8, 421-430.
+52;825;AnimCons;2005;Larsen;1;17;NA;NA;Africa sub-sahara;Regional;Denmark;Mammalia;Vertebrates;Community;Methods;Non experimental;0;0;0;0;2;2;"Here we test the higher-taxon approach for the continental
+identification of priority areas for conservation
+by assessing performance in providing species coverage
+by priority areas on the basis of genus- and family-level
+data of sub-Saharan African mammals at the 1? latitude–
+longitude grid-cell scale. We also test the influence of
+varying grain size by performing conservation analyses
+on the same data set compiled with a grain size of 1?,
+2? and 4? latitude–longitude grid-cell scale (subsequently
+referred to as the 1?, 2? and 4? grain sizes). The areas of
+these grain sizes are equivalent to the areas of the selection
+units used by several continental and global conservation
+schemes (see Burgess et al., 2002) such as endemic bird
+areas (Stattersfield et al., 1998), biologically distinctive
+ecoregions (Olson et al., 2001), which probably also are
+the only spatial scales where higher-taxon data for nonvertebrates
+realistically can be acquired for continents.";EBN;Larsen, F.W. & Rahbek, C. (2005) The influence of spatial grain size on the suitability of the higher-taxon approach in continental priority-setting. Animal Conservation, 8, 389-396.
+22;828;AnimCons;2005;Phillips;1;33;1935-2004;70;Australia;Country;Australia;Bufo marinus;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;0;Here we examine changes in these two aspects of toad morphology, body size and relative parotoid size, as a consequence of time since colonisation.;EBN;Phillips, B.L. & Shine, R. (2005) The morphology, and hence impact, of an invasive species (the cane toad, Bufo marinus): changes with time since colonisation. Animal Conservation, 8, 407-413.
+126;949;Biodiv&Cons;2011;Bacaro;5;14;2000-2006;7;Italy;Landscape;Italy;Aves;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;1;2;"The aim of this article is twofold: (i) to describe
+the spatial patterns of bird species richness and (ii) to identify those environmental factors
+underlying these patterns";DB;Bacaro, G., Santi, E., Rocchini, D., Pezzo, F., Puglisi, L. & Chiarucci, A. (2011) Geostatistical modelling of regional bird species richness: exploring environmental proxies for conservation purpose. Biodiversity and Conservation, 20, 1677-1694.
+50;2408;Biodiv&Cons;2005;Burke;0;3;1999-2001;3;Namibia;Landscape;Namibia;Plantea;Plants;Community;Natural history;Non experimental;0;0;0;0;0;0;"This paper investigates three main questions:
+Are there differences between vegetation types on mountain tops and what is the composition of mountain top vegetation?
+Do rare species affect the floristic relationship between mountain tops? and
+What are the likely factors determining the vegetation on mountain tops?";EBN;Burke, A. (2005) Vegetation types of mountain tops in Damaraland, Namibia. Biodiversity and Conservation, 14, 1487-1506.
+54;1701;Biodiv&Cons;2008;Buscardo;7;35;2002-2004;3;Ireland;Country;Ireland;Grasses;Plants;Community;Ecological processes;Non experimental;0;0;0;0;1;1;Given recent increases in the rate of afforestation, the paucity of previous studies and the potential for significant biodiversity loss, there is a need for research to determine the effects of land use change from grassland to coniferous plantation forest. The objective of this study was to investigate the effects of afforestation on the composition and structure of species assemblages and the relationships of the changes observed with ecological and management factors. The patterns of variation in biodiversity and soil properties were assessed in 16 recently afforested sites and 16 non-afforested equivalent habitats in two vegetation types, improved grasslands and unimproved wet grasslands.;EBN;Buscardo, E., Smith, G.F., Kelly, D.L., Freitas, H., Iremonger, S., Mitchell, F.J.G., O'Donoghue, S. & Mckee, A.M. (2008) The early effects of afforestation on biodiversity of grasslands in Ireland. Biodiversity and Conservation, 17, 1057-1072.
+98;1370;Biodiv&Cons;2009;Caplat;1;13;1995-2003;9;France;Landscape;France;Birds;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;2;2;"The aim of the present paper is twofold: (1) to test the existence of a fragmentation
+effect on the Grands Causses grassland birds and (2) to assess the difference in sensitivity
+to fragment area between individual bird species";DB;Caplat, P. & Fonderflick, J. (2009) Area mediated shifts in bird community composition: a study on a fragmented Mediterranean grassland. Biodiversity and Conservation, 18, 2979-2995.
+4;970;Biodiv&Cons;2011;Drossiart;6;8;NA;NA;Cameroon;Country;France;Orchidaceae & Rubiaceae (plants);Plants;Community;Natural history;Non experimental;0;0;0;0;0;0;"This study compares the geographical distribution of Orchidaceae and Rubiaceae taxa
+endemic to Atlantic Central Africa present in Cameroon, addressing the following questions.
+(i) Do these two families display differing endemism patterns regarding species
+richness variation and species turnover in Cameroon? In other words, do their contrasting
+life forms and dispersal abilities affect their distribution patterns? (ii) What are the main environmental gradients and/or biogeographic barriers that might explain the distribution
+of plant endemism in Cameroon? By comparing the distribution of Orchidaceae and
+Rubiaceae at different geographical scales, we explored several factors that could explain
+trends observed in endemism patterns. (iii) What are the areas in Cameroon that need more
+and detailed inventory work in the future? The information presented in this paper will also
+contribute to a better understanding of the biodiversity of Central African ecosystems and
+an improved framework for prioritizing conservation and sampling efforts by pointing out
+high diversity areas that still remain poorly explored to date.";EBN;Droissart, V., Sonke, B., Hardy, O.J., Simo, M., Taedoumg, H., Nguembou, C.K. & Stevart, T. (2011) Do plant families with contrasting functional traits show similar patterns of endemism? A case study with Central African Orchidaceae and Rubiaceae. Biodiversity and Conservation, 20, 1507-1531.
+53;2416;Biodiv&Cons;2005;Duckworth;4;16;NA;NA;Indochina;Regional;UK;Felis chaus;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;This paper details the recent and historical records, and analyses the species’s regional conservation status.;EBN;Duckworth, J.W., Poole, C.M., Tizard, R.J., Walston, J.L. & Timmins, R.J. (2005) The Jungle Cat Felis chaus in Indochina: a threatened population of a widespread and adaptable species. Biodiversity and Conservation, 14, 1263-1280.
+105;1547;Biodiv&Cons;2008;Galvánek;1;21;2008;1;Slovakia;Local;Slovakia;Plants;Plants;Community;Ecological processes;Experimental;0;0;0;0;1;1;"In the present study, we aimed to answer the following questions. (1) How does species
+richness change in traditionally managed meadows after abandonment, and in abandoned
+meadows after re-enactment of traditional management? (2) What is the relationship
+3244 Biodivers Conserv (2008) 17:3241–3253
+1 C
+between the speed of both processes? (3) Are there diVerences between dry and wet meadows.
+(4) Do the results depend on the spatial scale at which the species richness is
+observed?";DB;Galvanek, D. & Leps, J. (2008) Changes of species richness pattern in mountain grasslands: abandonment versus restoration. Biodiversity and Conservation, 17, 3241-3253.
+95;902;Biodiv&Cons;2011;Gonmadje;6;12;NA;NA;Cameroon;Landscape;Cameroon;Plants;Plants;Community;Natural history;Non experimental;0;0;0;0;0;0;"We assessed tree species diversity, floristic composition and level of endemism of the
+Ngovayang forest, comparing it with other sites in Central Africa.";DB;Gonmadje, C.F., Doumenge, C., McKey, D., Tchouto, G.P.M., Sunderland, T.C.H., Balinga, M.P.B. & Sonke, B. (2011) Tree diversity and conservation value of Ngovayang's lowland forests, Cameroon. Biodiversity and Conservation, 20, 2627-2648.
+112;1194;Biodiv&Cons;2010;Kati;6;21;2001;1;Greece;Landscape;Greece;Plants, Orthopterans, Herpetofauna, Birds;Mixed;Community;Methods;Non experimental;1;1;0;1;2;2;"In the present paper we
+introduce a novel approach: we define ecological heterogeneity in a standard and explicit
+way at horizontal and vertical dimension and we test its efficiency as an alternative
+species-free tool in conservation planning, using two techniques (scoring and complementary
+method)";DB;Kati, V., Poirazidis, K., Dufrene, M., Halley, J.M., Korakis, G., Schindler, S. & Dimopoulos, P. (2010) Towards the use of ecological heterogeneity to design reserve networks: a case study from Dadia National Park, Greece. Biodiversity and Conservation, 19, 1585-1597.
+62;1348;Biodiv&Cons;2009;Lovell;3;30;2002-2005;4;South-Africa;Landscape;South-Africa;Invertebrates;Invertebrates;Community;Methods;Non experimental;0;0;0;0;1;2;"This study aimed to validate the potential contribution of volunteers for surveys of
+terrestrial invertebrates by addressing the following objectives: (1) to assess the effectiveness of volunteers in sampling invertebrates relative to experienced researchers by contrasting quantitative sampling (the number of species) and qualitative sampling (unique
+species, rare species and species assemblages), (2) to identify which qualities make volunteers
+valuable to field researchers, (3) to investigate changes in perceptions among volunteers as a result of their participation in the expedition by pre-and post sampling questionnaires, (4) to examine time benefits associated with the use of volunteer teams to carry out comprehensive invertebrate surveys, and (5) to provide guidelines for the use of volunteers for invertebrate surveys.";EBN;Lovell, S., Hamer, M., Slotow, R. & Herbert, D. (2009) An assessment of the use of volunteers for terrestrial invertebrate biodiversity surveys. Biodiversity and Conservation, 18, 3295-3307.
+56;827;Biodiv&Cons;2012;Mortensen;1;2;2007;1;Nicaragua;Landscape;Denmark;Trees;Plants;Community;Methods;Non experimental;0;0;0;0;1;1;"In this paper, we contrast classical plot sampling with a participatory method (hunter effectiveness (HE) interviews) in relation to their relative cost-effectiveness and usability. The methods are aimed for monitoring biodiversity, following the implementation of forest project by Nepenthes (Danish NGO) and the Institute for Development and Democracy (IPADE by Spanish initials) in the Autonomic Region of the North Atlantic (RAAN by
+Spanish initials).";EBN;Mortensen, L.O. & Jensen, M.B. (2012) Methods in sustainable monitoring: plot sampling versus interviews. Biodiversity and Conservation, 21, 145-153.
+20;1681;Biodiv&Cons;2008;Pickering;2;32;2004;1;Australia;Landscape;Australia;Plantae;Plants;Community;Ecological processes;Non experimental;0;0;0;0;0;0;The aim of this paper is to determine how species richness at diVerent spatial scales changed along an altitudinal gradient and horizontal gradient (aspects on each summit). Therefore patterns of richness were examined, to see if the eVect of altitude and aspect depended on the spatial scale at which species richness was measured. We also examined if there were correlations in species richness at the diVerent spatial scales with climate variables. Patterns in richness of diVerent groups of species for whole summits including endemics, generalists and weed species richness were examined.;EBN;Pickering, C., Hill, W. & Green, K. (2008) Vascular plant diversity and climate change in the alpine zone of the Snowy Mountains, Australia. Biodiversity and Conservation, 17, 1627-1644.
+87;483;Biodiv&Cons;2013;Pipenbaher;3;6;2009-2010;2;Slovenia;Regional;Slovenia;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"We examined floristic
+composition, functional trait structure and threatened species occurrence in grasslands of
+this type from in two distinct biogeographic regions. In this study we will use the dry calcareous grassland florae of two contrasting floristic
+regions to test the relationship between plant traits related to plant ecology strategy and
+rarity at multiple levels";DB;Pipenbaher, N., Kaligaric, M., Mason, N.W.H. & Skornik, S. (2013) Dry calcareous grasslands from two neighboring biogeographic regions: relationship between plant traits and rarity. Biodiversity and Conservation, 22, 2207-2221.
+30;2398;Biodiv&Cons;2005;Sanchez-Zapata;6;38;2002;1;Spain;Landscape;Spain;Aves;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;0;1;"Some of the studies mentioned above point out the relationships between pond attributes and the abundance and diversity of different organisms. Thus, as new irrigation facilities seem to be rowing and Common Agriculture Policies need to be pdated to conceal agriculture funds with biodiversity conservation
+(Beaufoy 1998), and considering that studies on the value of artificial
+ponds in Spain are lacking, the following questions were addressed:
+1. What species of waterbird make use of artificial ponds in southeastern
+Spain?
+2. Are there pond attributes that explain the abundance and diversity of
+waterbirds?
+3. Is there an optimal engineering design to conceal irrigation use and
+waterbird conservation?";EBN;Sanchez-Zapata, J.A., Anadon, J.D., Carrete, M., Gimenez, A., Navarro, J., Villacorta, C. & Botella, F. (2005) Breeding waterbirds in relation to artificial pond attributes: implications for the design of irrigation facilities. Biodiversity and Conservation, 14, 1627-1639.
+146;1889;Biodiv&Cons;2007;Scheldeman;13;22;NA;NA;latin America;Regional;Colombia;Vasconcellea;Plants;"Population; Community";Natural history;Non experimental;0;0;0;0;0;0;"The main objectives of the presented study were: (1) to summarize the distribution
+of all 21 Vasconcellea species using collection data as well as herbarium specimen
+data; (2) to identify areas of high diversity and (3) collection gaps; and (4) to
+describe climatic and altitude preferences for Vasconcellea species";DB;Scheldeman, X., Willemen, L., d'Eeckenbrugge, G.C., Romeijn-Peeters, E., Restrepo, M.T., Motoche, J.R., Jimenez, D., Lobo, M., Medina, C.I., Reyes, C., Rodriguez, D., Ocampo, J.A., Van Damme, P. & Goetgebeur, P. (2007) Distribution, diversity and environmental adaptation of highland papayas (Vasconcellea spp.) in tropical and subtropical America. Biodiversity and Conservation, 16, 1867-1884.
+150;1522;Biodiv&Cons;2009;Schneider;1;10;2006;1;Australia;Landscape;Germany;Aves;Vertebrates;Community;Ecological processes;Non experimental;1;0;0;0;1;1;"Here, we investigate the relationships between avian species richness and water availability
+in arid central-eastern Australia, in the north-western part of New South Wales. Our
+aim is to investigate the relative importance of diVerent water regimes and their associated
+vegetation on avian species richness and to outline their potential value for the conservation
+of bird diversity.";DB;Schneider, N.A. & Griesser, M. (2009) Influence and value of different water regimes on avian species richness in arid inland Australia. Biodiversity and Conservation, 18, 457-471.
+42;1290;Biodiv&Cons;2010;Sulawa;4;14;1991-2005;15;Germany;Country;Germany;Haliaeetus albicilla;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;"The collection of demographic data from nest monitoring, individual marking and
+recovery of dead individuals for the German white-tailed eagle population over a 15-year period after the establishment of a conservation plan (the ban of the DDT) allowed us to (1) estimate current survival and fecundity rates and compare them with other non endangered and endangered raptor populations, (2) assess the trend and temporal variation in these rates and the respective roles of environmental stochasticity and regulation, (3) perform average term projections of population dynamics, assess future viability, as well as, the success of conservation measures in removing the main causes of decline.";EBN;Sulawa, J., Robert, A., Koppen, U., Hauff, P. & Krone, O. (2010) Recovery dynamics and viability of the white-tailed eagle (Haliaeetus albicilla) in Germany. Biodiversity and Conservation, 19, 97-112.
+131;276;Biodiv&Cons;2014;Velho;3;1;1989-2012;24;India;Landscape;Australia;Plants;Plants;Community;Ecological processes;Non experimental;1;0;0;0;1;0;"We assessed potential links between ethno-civil strife and forest loss over a two-decade
+period in areas adjoining two internationally important tiger reserves in northeastern India";DB;Velho, N., Agarwala, M., Srinivasan, U. & Laurance, W.F. (2014) Collateral damage: impacts of ethno-civil strife on biodiversity and natural resource use near Indian nature reserves. Biodiversity and Conservation, 23, 2515-2527.
+135;1737;Biodiv&Cons;2008;Watanabe;1;6;NA;NA;Borneo/Java;Regional;Japan;Rattans;Plants;Community;Ecological processes;Non experimental;0;0;0;0;0;1;"The purpose of this study was to clarify the patterns of species diversity, abundance, and
+vertical size structure of rattan species by comparison among diVerent forest types";DB;Watanabe, N.M. & Suzuki, E. (2008) Species diversity, abundance, and vertical size structure of rattans in Borneo and Java. Biodiversity and Conservation, 17, 523-538.
+48;1114;Biodiv&Cons;2010;Zagmajster;3;9;NA;NA;Balkan;Regional;Slovenia;Coleoptera;Invertebrates;Community;Methods;Non experimental;0;0;0;0;1;1;"The primary aim of this study is to evaluate the observed pattern of subterranean beetle species richness, adjusted for the effect of incomplete, biased sampling. We also investigate where additional species would be expected. To address these issues we propose the approach of
+combining different analytical methods.";EBN;Zagmajster, M., Culver, D.C., Christman, M.C. & Sket, B. (2010) Evaluating the sampling bias in pattern of subterranean species richness: combining approaches. Biodiversity and Conservation, 19, 3035-3048.
+51;850;BiolCons;2013;Benson;3;10;2002-2011;10;Canada;Landscape;Canda;"Canis lycaon; Canis latrans; Canis lupus";Vertebrates;Population;Ecological processes;Non experimental;3;0;0;1;1;1;"Broadly, our objective was to investigate intrinsic and extrinsic influences on first-year survival and cause-specific mortality of wolf, coyote, and hybrid
+pups. Specifically, we: (1) investigated spatial variation in pup survival
+across both protected and unprotected portions of the Canis
+hybrid zone; (2) determined genetic ancestry of pups and compared
+mortality risk and survival rates of hybrid and parental type wolves and coyotes; (3) evaluated the influence of prey availability
+and human disturbance (i.e. roads) on mortality risk; and (4) modeled
+and estimated mortality from competing risks to identify
+environmental or genetic variables associated with specific causes
+of death. We hypothesized that availability of food resources in
+APP would be the primary factor driving Canis demography, including
+pup survival, consistent with previous studies of wolves in
+protected areas (Mech, 1977; Fuller et al., 2003). Specifically, we
+predicted that areas of relatively low prey availability in APP
+(e.g., western APP; see details in Section 2) would result in lower
+pup survival.";EBN;Benson, J.F., Mills, K.J., Loveless, K.M. & Patterson, B.R. (2013) Genetic and environmental influences on pup mortality risk for wolves and coyotes within a Canis hybrid zone. Biological Conservation, 166, 133-141.
+133;326;BiolCons;2015;Buchalski;10;3;1992-2013;22;"USA; Mexico";Regional;USA;Ovis canadensis nelsoni;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;1;"We used microsatellites and mtDNA to assess the population
+genetics of PBS in the US–Mexico border region. Our specific objectives
+were to (i) calculate standard measures of genetic diversity to
+assess potential loss of variation due to past demographic declines;
+(ii) characterize genetic structure within the PBS metapopulation
+using additional molecular markers, updated analytical tools, and
+contemporary samples from throughout the border region; and
+(iii) make inference regarding the nature and extent of gene flow";DB;Buchalski, M.R., Navarro, A.Y., Boyce, W.M., Vickers, T.W., Tobler, M.W., Nordstrom, L.A., Garcia, J.A., Gille, D.A., Penedo, M.C.T., Ryder, O.A. & Ernest, H.B. (2015) Genetic population structure of Peninsular bighorn sheep (Ovis canadensis nelsoni) indicates substantial gene flow across US-Mexico border. Biological Conservation, 184, 218-228.
+64;1477;BiolCons;2011;Croes;6;25;2008;1;Cameroon;Landscape;Netherlands;"Carnivora; lion; leopard; Spotted hyena";Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;1;1;"Considering the importance of hunting concessions in West and Central Africa, particularly in terms of proportional contribution of surface area to protected areas but also in terms of potential income generated through professional hunting (Lindsey, 2008), we
+investigated the effects of long-term trophy hunting on lion populations in the Bénoué Complex. The study further offers important insights into population status of leopard and spotted hyena in relation to different management regimes. The results could serve
+as a model to understand some of the factors contributing to the regional dramatic decline in large carnivore numbers.";EBN;Croes, B.M., Funston, P.J., Rasmussen, G., Buij, R., Saleh, A., Tumenta, P.N. & de Longh, H.H. (2011) The impact of trophy hunting on lions (Panthera leo) and other large carnivores in the Benoue Complex, northern Cameroon. Biological Conservation, 144, 3064-3072.
+117;865;BiolCons;2013;Di Marco;3;12;NA;NA;Southeast Asia;Regional;Italy;Mammals;Vertebrates;Community;Methods;Non experimental;0;0;0;0;2;2;"Here we investigate the effect of adopting multiple proxies of a
+species distribution and using different quantifications of a map
+representing human impact, on species threat assessment";DB;Di Marco, M., Rondinini, C., Boitani, L. & Murray, K.A. (2013) Comparing multiple species distribution proxies and different quantifications of the human footprint map, implications for conservation. Biological Conservation, 165, 203-211.
+40;1125;BiolCons;2013;Edwards;9;12;2008;1;Chile;Landscape;USA;Chelonoidis abingdoni;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;"Here we investigate the presence of C. abingdoni
+ancestry. Using the 2008 samples augmented by museum specimens
+and sub-fossil remains from Pinta Island, we report the
+detection of 17 individuals with C. abingdoni ancestry on VW.";EBN;Edwards, D.L., Benavides, E., Garrick, R.C., Gibbs, J.P., Russello, M.A., Dion, K.B., Hyseni, C., Flanagan, J.P., Tapia, W. & Caccone, A. (2013) The genetic legacy of Lonesome George survives: Giant tortoises with Pinta Island ancestry identified in Galapagos. Biological Conservation, 157, 225-228.
+6;3528;BiolCons;2005;Gove;2;38;2001-2002;2;Mexico;Landscape;Australia;Formicidae;Invertebrates;Community;Ecological processes;Non experimental;0;0;0;0;0;1;"To understand how ant species composition and diversity might be conserved in the extensively degraded dry forest
+landscapes of Mexico and beyond, and to most thoroughly
+understand the value of these oV-reserve
+habitats, we sample across strata and across seasons.
+SpeciWcally, we aim to compare the conservation value
+of isolated pasture trees and secondary regrowth with
+that of small forest fragments and, at the other end of
+the spectrum, open pasture.";EBN;Gove, A.D., Majer, J.D. & Rico-Gray, V. (2005) Methods for conservation outside of formal reserve systems: The case of ants in the seasonally dry tropics of Veracruz, Mexico. Biological Conservation, 126, 328-338.
+68;3008;BiolCons;2007;Holmern;2;69;2004;1;Tanzania;Landscape;Norway;Carnivora;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;1;"In this study, we explored through a questionnaire study the extent and impact of conflict between carnivores and agro-pastoralist outside the Serengeti National Park. Moreover, we quantify the perceived economic losses to local communities, and examine which factors
+influenced the approval of retaliatory killing as a carnivore depredation deterrent, since this is a common but illegal practice in Tanzania that has serious mplications for carnivore persistence.";EBN;Holmern, T., Nyahongo, J. & Roskaft, E. (2007) Livestock loss caused by predators outside the Serengeti National Park, Tanzania. Biological Conservation, 135, 518-526.
+63;2621;BiolCons;2008;Joseph;1;11;NA;NA;Australia;Landscape;Australia;Aves;Vertebrates;Population;Methods;Non experimental;0;0;0;0;2;2;"questionnaires, (4) to examine time benefits associated with the use of volunteer teams to
+carry out comprehensive invertebrate surveys, and (5) to provide guidelines for the use of
+volunteers for invertebrate surveys.";EBN;Joseph, L.N. & Possingham, H.P. (2008) Grid-based monitoring methods for detecting population declines: Sensitivity to spatial scale and consequences of scale correction. Biological Conservation, 141, 1868-1875.
+136;655;BiolCons;2014;Liu;1;23;2012-2013;2;China;Local;China;Plants;Plants;Community;Ecological processes;Non experimental;3;1;0;1;1;1;"We hyWe hypothesize, based on observations in fragmented
+landscapes mentioned earlier, that this expansion of rubber plantations
+is spatially non-random and will result in remaining forest
+fragments being located on less accessible, steeper, higher and shady
+slopespothesize, based on observations in fragmented";DB;Liu, J.J. & Slik, J.W.F. (2014) Forest fragment spatial distribution matters for tropical tree conservation. Biological Conservation, 171, 99-106.
+80;1784;BiolCons;2011;Martin;2;45;2007;1;"Canada; USA";Landscape;Australia;"Deer; Aves";Vertebrates;Community;Ecological processes;Non experimental;2;1;0;1;0;1;"Wepredicted that understory vegetation
+cover would decline as deer density increased, leading to a
+range of positive and negative effects on the relative abundance of
+several focal bird species that vary in their reliance on understory
+vegetation for feeding or nesting";DB;Martin, T.G., Arcese, P. & Scheerder, N. (2011) Browsing down our natural heritage: Deer impacts on vegetation structure and songbird populations across an island archipelago. Biological Conservation, 144, 459-469.
+114;384;BiolCons;2015;McGrath;5;7;2010-2013;4;Australia;Landscape;Australia;Tympanocryptis pinguicolla;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;1;"Here, we use
+occupancy modelling to estimate site occupancy and detection
+probabilities with two aims: to provide a framework within which
+to test hypotheses about the drivers of occupancy for T. pinguicolla
+and as a means to investigate the effectiveness and application of
+rock turning, a frequently used survey technique for detecting rare
+or declining reptiles.";DB;McGrath, T., Guillera-Arroita, G., Lahoz-Monfort, J.J., Osborne, W., Hunter, D. & Sarre, S.D. (2015) Accounting for detectability when surveying for rare or declining reptiles: Turning rocks to find the Grassland Earless Dragon in Australia. Biological Conservation, 182, 53-62.
+106;3652;BiolCons;2005;Perkins;1;12;NA;NA;USA;Landscape;USA;Plants;Plants;Community;Ecological processes;Quasi experimental;1;0;0;1;0;0;Here, we present evidence that Phalaris dramatically reduces plant species richness in impoundments created by beaver in Oregon, USA;DB;Perkins, T.E. & Wilson, M.V. (2005) The impacts of Phalaris arundinacea (reed canarygrass) invasion on wetland plant richness in the Oregon Coast Range, USA depend on beavers. Biological Conservation, 124, 291-295.
+90;3370;BiolCons;2006;Piorecky;1;22;2001;1;Canada;Landscape;Canada;Glaucidium gnoma;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;"this
+study examined the influence of biophysical factors on the
+distribution of northern pygmy owls";DB;Piorecky, M.D. & Prescott, D.R.C. (2006) Multiple spatial scale logistic and autologistic habitat selection models for northern pygmy owls, along the eastern slopes of Alberta's Rocky Mountains. Biological Conservation, 129, 360-371.
+99;982;BiolCons;2013;Plue;1;19;2010-2011;2;Sweden;Landscape;Sweden;Plants;Plants;Community;Ecological processes;Non experimental;1;1;0;0;1;1;"This studysetsouttogatherdirectempiricalevidencetotestthe
+hypothesis thatseedbanksarecriticaltotheprolongedpresence,
+persistence andsurvivalofgrasslandspeciesinfragmentedland-
+scapes";DB;Plue, J. & Cousins, S.A.O. (2013) Temporal dispersal in fragmented landscapes. Biological Conservation, 160, 250-262.
+11;3247;BiolCons;2006;Rowe;6;10;2000-2001;2;UK;Landscape;UK;Plantae AND invertebrates;Mixed;Community;Ecological processes;Experimental;3;0;0;1;1;1;"The aim of the study was to test typical of more fertile habitats; (4) decreased abundance of
+plant species typical of infertile habitats; (5) increased quality
+of leaves as invertebrate food substrates; (6) increased foliar
+invertebrate abundance and taxonomic diversity.
+the hypotheses that on a nutrient-poor primary succession
+site, improved nutrient availability leads to: (1) Increased plant
+cover and biomass accumulation; (2) increased species richness
+of the ground flora; (3) increased abundance of plant species";EBN;Rowe, E.C., Healey, J.R., Edwards-Jones, G., Hills, J., Howells, M. & Jones, D.L. (2006) Fertilizer application during primary succession changes the structure of plant and herbivore communities. Biological Conservation, 131, 510-522.
+19;140;BiolCons;2015;Spehar;3;3;2012;1;Indonesia;Landscape;USA;Pongo pygmaeus;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;1;"Given their extensive use to estimate densities for other elusive
+animals, we were interested in examining the applicability of camera
+trapping and SCR modeling to orangutan populations. The purpose of
+this studywas three-fold: 1) to evaluate the feasibility of using of camera
+traps and SCRmodeling to estimate orangutan densities, using a population
+of Northeast Bornean orangutans (P.p. morio) as a case study; 2) to
+compare results obtained using camera trapping and SCR modeling to
+those obtained using an established method (nest surveys); and 3) to
+assess the advantages and disadvantages of both methods to make general
+recommendations for researchers wishing to estimate population
+parameters for orangutans and other elusive animals.";EBN;Spehar, S.N., Loken, B., Rayadin, Y. & Royle, J.A. (2015) Comparing spatial capture-recapture modeling and nest count methods to estimate orangutan densities in the Wehea Forest, East Kalimantan, Indonesia. Biological Conservation, 191, 185-193.
+81;978;BiolCons;2013;Tanferna;4;18;2007-2009;3;Spain;Landscape;Spain;Milvus migrans;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;1;1;"herewe:(1)examinethehomerangeand
+habitat selectionofkitesofdifferentsexandstatus(breedersvs.
+floaters) and(2)proposepotentialmanagementguidelinesbased
+on theobtainedresults.";DB;Tanferna, A., Lopez-Jimenez, L., Blas, J., Hiraldo, F. & Sergio, F. (2013) Habitat selection by Black kite breeders and floaters: Implications for conservation management of raptor floaters. Biological Conservation, 160, 1-9.
+60;921;BiolCons;2013;Terborgh;0;22;NA;NA;Peru;Landscape;USA;Plantea;Plants;Community;Ecological processes;Non experimental;3;1;0;1;1;2;"Given these circumstances, we used the J–C model to make 5 predictions about the ‘‘empty’’ forest in relation to a compositionally similar forest 90 km distant in the heart of the Manu National Park where the animal community was intact. (1) Decimation of major dispersers
+should result in reduced dispersal, which, in turn, should lead to reduced sapling recruitment. (2) Reduced recruitment of zoochorous species should lead to enhanced recruitment of abiotically-dispersed species in compensation. (3) Predictions 1 and 2 lead to the third prediction which is that community composition should change. (4) Large-seeded species should predominate among those
+showing the largest decrements in recruitment. (5) Compensatory seed predation should buffer escape curves from defaunation, as
+reasoned above, implying no tendency of saplings to cluster closer to adults despite an expected increase in seed deposition near
+adults.";EBN;Terborgh, J. (2013) Using Janzen-Connell to predict the consequences of defaunation and other disturbances of tropical forests. Biological Conservation, 163, 7-12.
+92;460;BiolCons;2014;Toledo;3;13;NA;NA;Brazil;Landscape;Brazil;Frogs;Vertebrates;Population;Ecological processes;Non experimental;3;0;0;1;2;2;"In this study we assembled a database of Brazilian Atlantic forest
+anurans, categorized according to components of rarity, and
+quantified the relative impacts of the different forms of rarity on
+formal endangerment.";DB;Toledo, L.F., Becker, C.G., Haddad, C.F.B. & Zamudio, K.R. (2014) Rarity as an indicator of endangerment in neotropical frogs. Biological Conservation, 179, 54-62.
+65;3014;BiolCons;2007;Yates;4;27;2002-2004;3;Australia;Landscape;Australia;Calothamnus quadrifidus;Plants;Population;Ecological processes;Non experimental;3;0;0;1;1;1;"In this paper, we continue our studies of the genetic and
+ecological factors affecting the viability of C. quadrifidus population fragments. Specifically we investigate fruit set, the number of seeds per fruit, seed germinability, seedling mortality and growth. We hypothesize that if highly mobile honeyeaters considerably extend the mating pool beyond the individual fragment rescuing small populations from the expected effects of inbreeding, as suggested by our gene-flow
+study, then fruit set, seed production, seed germinability, seedling mortality and seedling growth will be unrelated to population fragment size. We discuss what our results mean";EBN;Yates, C.J., Elliott, C., Byrne, M., Coates, D.J. & Fairman, R. (2007) Seed production, germinability and seedling growth for a bird-pollinated shrub in fragments of kwongan in south-west Australia. Biological Conservation, 136, 306-314.
+73;1888;ConsBiol;2006;Brawn;0;47;1995-1999;5;USA;Country;USA;Aves;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;1;1;To further understand how savanna restoration and ecological disturbance affect bird populations, I compared the breeding densities, overall community structure, and reproductive success of birds in a series of restored savannas and comparatively undisturbed closed-canopy oak forests.;EBN;Brawn, J.D. (2006) Effects of restoring oak savannas on bird communities and populations. Conservation Biology, 20, 460-469.
+75;873;ConsBiol;2010;Carroll;3;16;NA;NA;USA;Landscape;USA;"Martes pennanti; Monadenia churchi; Arborimus
+longicaudus";Vertebrates;Population;Methods;Non experimental;1;0;0;0;2;2;"Bayesian spatial and nonspatial models built with artificial
+data sets (Wintle & Bardos 2006; Dormann et al.
+2007; Beale et al. 2010) or plant survey data (Latimer
+et al. 2006, 2009) have been compared previously. We
+(1) further developed and applied such techniques to a
+set of multispecies faunal survey data typical of regional
+planning efforts, (2) evaluated whether the use of spatial
+models alters model selection and prediction, (3)
+explored the contrasts between models using extensive
+covariates derived from geographic information systems
+(GIS) and those using covariatesmeasured in sparsely distributed
+plots, and (4) developed and contrasted examples
+of models for vertebrate and invertebrate taxa with
+a range of dispersal abilities and territory sizes to assess
+whether the utility of spatial models varies across spatial
+scales.";EBN;Carroll, C., Johnson, D.S., Dunk, J.R. & Zielinski, W.J. (2010) Hierarchical Bayesian Spatial Models for Multispecies Conservation Planning and Monitoring. Conservation Biology, 24, 1538-1548.
+72;938;ConsBiol;2010;Clark;3;80;NA;NA;USA;Country;USA;Crotalus horridus;Vertebrates;Population;Ecological processes;Non experimental;3;0;0;1;1;2;"We sampled timber rattlesnake
+populations in contiguous and road-fragmented habitats to test the following predictions: populations in areas with more roads have reduced genetic diversity; separation of hibernacula by roads increases genetic differentiation; and these two patterns result specifically from fewer matings between individuals from hibernacula separated by roads. In general, we sought to reveal the degree to which roads may affect the population genetic structure of philopatric species with limited direct dispersal, and the mechanisms by which genetic connectivity in such systems can be interrupted.";EBN;Clark, R.W., Brown, W.S., Stechert, R. & Zamudio, K.R. (2010) Roads, Interrupted Dispersal, and Genetic Diversity in Timber Rattlesnakes. Conservation Biology, 24, 1059-1069.
+156;2016;ConsBiol;2005;Cremene;6;131;2001;1;Romania;Landscape;"Romania; Switzerland";"Plants; Gastropods; Lepidoptera";Mixed;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"We addressed the following questions: (1) Do different
+successional stages of grassland abandonment differ
+in species number, species abundance, and community
+structure of plants, terrestrial gastropods, and diurnal
+and nocturnal Lepidoptera? (2) How do the human-made
+habitat alterations (abandoned vineyards and Pinus plantations)
+affect these communities? (3) Do different successional
+stages differ in the number of threatened (redlisted)
+and endemic species? (4) To what extent is the
+response to habitat changes of a particular group an indicator
+for the other taxonomic groups?";DB;Cremene, C., Groza, G., Rakosy, L., Schileyko, A.A., Baur, A., Erhardt, A. & Baur, B. (2005) Alterations of steppe-like grasslands in Eastern Europe: a threat to regional biodiversity hotspots. Conservation Biology, 19, 1606-1618.
+144;2121;ConsBiol;2005;Delaney;1;23;NA;NA;USA;Landscape;USA;Aphelocoma insularis;Vertebrates;Population;Ecological processes;Non experimental;3;1;0;1;1;0;Assessing the genetic variability and uniqueness of an island species is critical for its conservation. We sought to determine whether the Island Scrub-Jay lineage is genetically distinct by testing two hypotheses. ;DB;Delaney, K.S. & Wayne, R.K. (2005) Adaptive units for conservation: Population distinction and historic extinctions in the Island Scrub-Jay. Conservation Biology, 19, 523-533.
+154;1907;ConsBiol;2006;Dixon;5;64;1998-2003;6;USA;Landscape;USA;"Ursus americanus
+floridanus";Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;1;1;"Our objective was to evaluate the effectiveness of the
+Osceola-Ocala corridor for the Florida black bear.We used
+noninvasive sampling to obtain genetic material from
+bears within the Osceola-Ocala corridor and from the
+Osceola and Ocala populations. Population assignment
+tests were used to assign individuals sampled from the
+corridor to a population of origin (Ocala or Osceola)
+based on their multilocus genotypes. These techniques
+allowed us to characterize the dispersal of bears from
+the source populations and identify gaps in connectivity
+within the Osceola-Ocala corridor";DB;Dixon, J.D., Oli, M.K., Wooten, M.C., Eason, T.H., McCown, J.W. & Paetkau, D. (2006) Effectiveness of a regional corridor in connecting two Florida black bear populations. Conservation Biology, 20, 155-162.
+59;1004;ConsBiol;2010;Drummond;6;11;NA;NA;Indonesia;Landscape;Australia;Mammalia;Vertebrates;Community;Methods;Non experimental;0;0;0;0;2;2;Using East Kalimantan as an example, we systematically evaluated the impact of these strategies in terms of their ecological and financial outcomes. We examined how explicitly protecting threatened species influences conservation planning in terms of cost efficiency and incidental cover for nonthreatened species. We also explored how different target-setting approaches influenced the spatial location and size of the reserve network. We set targets with percent-based and equitable approaches, the latter relying on an estimate of a minimum viable population size and home range.;EBN;Drummond, S.P., Wilson, K.A., Meijaard, E., Watts, M., Dennis, R., Christy, L. & Possingham, H.P. (2010) Influence of a Threatened-Species Focus on Conservation Planning. Conservation Biology, 24, 441-449.
+149;1188;ConsBiol;2008;Farrington;3;18;1999-2005;7;USA;Landscape;USA;Panax quinquefolius;Plants;Population;Ecological processes;Non experimental;3;0;0;1;0;1;"we hypothesized that when harvesting pressure is high,
+low levels of deer herbivory may actually benefit ginseng
+populations";DB;Farrington, S.J., Muzika, R.M., Drees, D. & Knight, T.M. (2009) Interactive Effects of Harvest and Deer Herbivory on the Population Dynamics of American Ginseng. Conservation Biology, 23, 719-728.
+1;1038;ConsBiol;2010;Flesch;5;21;2002-2005;4;USA AND Mexico;Landscape;USA;Glaucidium brasilianum AND Ovis canadensis;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;1;1;"We assessed the influence of vegetation and landscape
+structure on (a) flight and dispersal behaviors of Pygmy-
+Owls, (b) movement rates and gene flow between two
+populations of desert bighorn sheep and the simulated
+effects of an impermeable border fence on regional interpopulation
+connectivity, (c) other species likely to be
+affected by border development, (d) and strategies to
+conserve transboundary connectivity.";EBN;Flesch, A.D., Epps, C.W., Cain, J.W., Clark, M., Krausman, P.R. & Morgart, J.R. (2010) Potential Effects of the United States-Mexico Border Fence on Wildlife. Conservation Biology, 24, 171-181.
+66;214;ConsBiol;2014;Hall;9;6;1990-2013;24;Tanzania;Landscape;USA;Forest;Plants;Ecosystem;Ecological processes;Non experimental;0;0;0;0;1;1;We analyzed this process from late 1990s to 2013. We determined whether the process was successful at balancing conservation and livelihood outcomes. With increasing interest in financial conservation mechanisms within the frame of payments for environmental services. The lessons which arise from this case study have broad relevance to the biological conservation and development communities who are applying monetary solutions to conservation challenges.;EBN;Hall, J.M., Burgess, N.D., Rantala, S., Vihemaki, H., Jambiya, G., Gereau, R.E., Makonda, F., Njilima, F., Sumbi, P. & Kizaji, A. (2014) Ecological and Social Outcomes of a New Protected Area in Tanzania. Conservation Biology, 28, 1512-1521.
+159;1781;ConsBiol;2005;Laurance;7;156;2004;1;Gabon;Landscape;Panama;Mammals;Vertebrates;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"We assessed the effects of roads and hunting on rainforest
+mammals in southern Gabon. Our study offers some
+important advantages over earlier published investigations
+of hunting in this region.. This design allowed
+us to quantitatively assess the relative effects of
+roads and hunting (and their interaction) on different
+species and guilds of mammals.";DB;Laurance, W.F., Croes, B.M., Tchignoumba, L., Lahm, S.A., Alonso, A., Lee, M.E., Campbell, P. & Ondzeano, C. (2006) Impacts of roads and hunting on central African rainforest mammals. Conservation Biology, 20, 1251-1261.
+57;583;ConsBiol;2012;Mitchell;3;4;NA;NA;Australia;Local;Australia;Limnodynastes peronii;Vertebrates;Population;Ecological processes;Experimental;3;1;0;1;1;2;"Given that both UVBR and conspecific density
+have independent, negative effects on developing
+amphibians, we hypothesized that the effect of simultaneous exposure of striped marsh frog embryos and tadpoles to both stressors would be greater than the additive effect of each stressor.";EBN;Mitchell, T., Alton, L.A., White, C.R. & Franklin, C.E. (2012) Relations between Conspecific Density and Effects of Ultraviolet-B Radiation on Tadpole Size in the Striped Marsh Frog. Conservation Biology, 26, 1112-1120.
+104;611;ConsBiol;2012;Molina-Montenegro;5;43;2007-2010;4;Antarctica;Landscape;Chile;Plants;Plants;Community;Ecological processes;Quasi experimental;0;0;0;0;0;0;"We studied the establishment and modest spread of
+a non-native plant species, the annual bluegrass (Poa
+annua [Poaceae]), at several sites on the Antarctic Peninsula.";DB;Molina-Montenegro, M.A., Carrasco-Urra, F., Rodrigo, C., Convey, P., Valladares, F. & Gianoli, E. (2012) Occurrence of the Non-Native Annual Bluegrass on the Antarctic Mainland and Its Negative Effects on Native Plants. Conservation Biology, 26, 717-723.
+46;969;ConsBiol;2010;Moorhead;2;22;NA;NA;Mexico;Local;USA;Epiphytes;Plants;Community;Ecological processes;Non experimental;1;0;0;0;1;1;"We investigated the following
+questions to examine, which, if any, system of
+coffee management provides a higher-quality agricultural
+matrix for epiphyte biodiversity: Is species richness and
+species composition of epiphytes (overall and for certain
+groups of epiphytes) different in forest and coffee
+agroecosystems that differ in management intensity? Is
+the vertical stratification of epiphytes different in forest
+and coffee habitats that differ in management intensity?
+Do changes in particular vegetation characteristics correlate with epiphyte richness? And does epiphyte richness, composition, and similarity between agricultural and forest species change at increasing distances from the forest in the two coffee management systems?";EBN;Moorhead, L.C., Philpott, S.M. & Bichier, P. (2010) Epiphyte Biodiversity in the Coffee Agricultural Matrix: Canopy Stratification and Distance from Forest Fragments. Conservation Biology, 24, 737-746.
+158;780;ConsBiol;2011;Reid;1;24;2004-2005;2;USA;Landscape;USA;Canis lupus familiaris;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;2;1;"We investigated the effects of human visitors and domestic
+dogs on the species richness and abundance of
+native mammalian carnivores in 28 protected areas in
+northern California.";DB;Reed, S.E. & Merenlender, A.M. (2011) Effects of Management of Domestic Dogs and Recreation on Carnivores in Protected Areas in Northern California. Conservation Biology, 25, 504-513.
+67;188;ConsBiol;2015;Stanley;10;28;2007-2013;7;USA;Regional;Canada;Hylocichla mustelina;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;"We created the first regional and
+species-level migratory networks for a songbird, and we quantified forest loss in its Neotropical wintering range. Threats at temperate breeding sites have been well studied (e.g., Hames et al. 2002); however, with information on migratory connectivity, threats from winter habitat loss can now be quantified for specific breeding populations. Our study provides an operational framework to assess habitat loss and protection on the wintering grounds for both specific breeding populations and for a species as a whole.";EBN;Stanley, C.Q., McKinnon, E.A., Fraser, K.C., Macpherson, M.P., Casbourn, G., Friesen, L., Marra, P.P., Studds, C.E., Ryder, T.B., Diggs, N.E. & Stutchbury, B.J.M. (2015) Connectivity of wood thrush breeding, wintering, and migration sites based on range-wide tracking. Conservation Biology, 29, 164-174.
+134;1890;ConsBiol;2006;Strittholt;2;30;2000;1;USA;Country;USA;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;0;0;"Therefore, our objectives were to (1) determine the areal
+extent of old (>150 years) and mature (50–150 years)
+conifer forests with 2000 Landsat 7 Enhanced Thematic
+Mapper Plus imagery, (2) examine levels of protection,
+(3) determine the degree of additional protection that
+would be afforded to old and mature conifer forests if LSRs
+and inventoried roadless areas (IRAs) were granted increased
+protection, and (4) review management options
+to achieve greater protection for older forests";DB;Strittholt, J.R., DellaSala, D.A. & Jiang, H. (2006) Status of mature and old-growth forests in the Pacific Northwest. Conservation Biology, 20, 363-374.
+97;358;ConsBiol;2013;Vidal;2;24;2001-2012;12;Mexico;Landscape;Mexico;Forest ;Plants;Ecosystem;Ecological processes;Non experimental;0;0;0;0;0;0;"We documented changes in forest cover in the reserve’s
+core zones from 2001 to 2012 and provide recommendations
+for conserving the habitat of this butterfly
+in Mexico to ensure this unique migratory phenomenon
+continues";DB;Vidal, O., Lopez-Garcia, J. & Rendon-Salinas, E. (2014) Trends in Deforestation and Forest Degradation after a Decade of Monitoring in the Monarch Butterfly Biosphere Reserve in Mexico. Conservation Biology, 28, 177-186.
+33;1947;ConsBiol;2005;Wintle;4;60;;NA;Canada;Landscape;Australia;Certhia americana;Vertebrates;Population;Projection & forecasting;Non experimental;0;0;0;0;1;1;Our objective was to explore the utility of dynamic landscape metapopulation (DLMP) models as a tool for predicting the effect of alternative management scenarios on an indicator species. To evaluate this approach we developed a case study of the Brown Creeper (Certhia americana) in an actively managed, boreal landscape in north-central Ontario, Canada. We constructed a DLMP model in RAMAS Landscape and used it to evaluate and rank the sustainability of eight forest management scenarios in terms of their impact on the landscape-level abundance of the Brown Creeper over 160 years (two timber harvesting rotations based on current rotation lengths).;EBN;Wintle, B.A., Bekessy, S.A., Venier, L.A., Pearce, J.L. & Chisholm, R.A. (2005) Utility of dynamic-landscape metapopulation models for sustainable forest management. Conservation Biology, 19, 1930-1943.
+140;37;EcolAppl;2007;Andersson;2;133;2005;1;Sweden;Landscape;Sweden;"Bumble bees; birds";Mixed;Ecosystem;Ecological processes;Non experimental;3;0;0;1;1;2;"Thus, we
+hypothesized that the differences in organization and the
+degree of freedom in decision-making between the green
+areas would lead to differences in the managers’ sense of
+place and willingness to increase their local ecological
+knowledge and respond to environmental feedback. If
+this is true, the corollary is that management practices
+should differ as well";DB;Andersson, E., Barthel, S. & Ahrne, K. (2007) Measuring social-ecological dynamics behind the generation of ecosystem services. Ecological Applications, 17, 1267-1278.
+28;118;EcolAppl;2013;Bennett;1;22;2005-2006;2;USA;Local;USA;Arthropoda;Invertebrates;Community;Ecological processes;Experimental;2;1;0;1;1;1;"The objective of this study was to examine the effect individual plant species and plant diversity have on beneficial arthropod communities (pollinators, predators, and parasitoids). The study focused on beneficial arthropods because this group is capable of providing managed landscapes with arthropod-mediated ecosystem services. Using a common-garden experiment, flowering plant diversity was manipulated by planting
+each species singly and in combinations of either two- or seven-species per plot. Using the established plots, we asked: (1) Is the abundance, richness, and community composition of beneficial arthropods different between monocultures of individual flowering plant species? (2) Does increasing plant diversity increase beneficial
+arthropod abundance and richness? (3) Does plant
+diversity alter the composition of the arthropod
+assemblages? Finally, we asked: (4) Are the arthropod assemblages found in multispecies plantings additive mixtures of the assemblages found in single-species plantings?";EBN;Bennett, A.B. & Gratton, C. (2013) Floral diversity increases beneficial arthropod richness and decreases variability in arthropod community composition. Ecological Applications, 23, 86-95.
+160;145;EcolAppl;2005;Bjorndal;2;40;1975-2001;26;Bahamas;Country;USA;Turtles;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;0;"We evaluate trends in abundance over time for
+the two sampling populations in relation to other demographic
+parameters of interest: survival and emigration
+probabilities. We also evaluate those trends in
+the context of the increasing trend reported for the nesting
+population at Tortuguero, Costa Rica (Bjorndal et
+al. 1999) and discuss the challenges of assessing population-
+wide trends of immature green turtles in the
+Greater Caribbean. The Tortuguero rookery is the largest
+in the Greater Caribbean, by at least an order of
+magnitude (Seminoff 2002), and is the primary rookery
+source for the two sampling populations, based on
+mtDNA sequence analyses (Lahanas et al. 1998; K. A.
+Bjorndal and A. B. Bolten, unpublished data).";EBN;Bjorndal, K.A., Bolten, A.B. & Chaloupka, M.Y. (2005) Evaluating trends in abundance of immature green turtles, Chelonia mydas, in the Greater Caribbean. Ecological Applications, 15, 304-314.
+58;148;EcolAppl;2011;Blanco;2;14;1996-2007;12;Spain;Country;Spain;Aquila adalberti;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;1;1;1;"Here, we examined the impact of supplementary feeding on the health of the Spanish Imperial Eagle, Aquila adalberti, one of the most
+endangered birds of prey in the world. Huge efforts
+and funds have been invested in supplementary feeding
+as a primary conservation measure in this species
+(Gonza´ lez et al. 2006). However, its potentially beneficial or indirect undesired detrimental consequences on health and other traits have been not considered from an active adaptive approach in the decision-making process, nor subsequently critically evaluated (Ferrer and Hiraldo 1991, Blanco 2006, Ferrer and Penteriani 2007).";EBN;Blanco, G., Lemus, J.A. & Garcia-Montijano, M. (2011) When conservation management becomes contraindicated: impact of food supplementation on health of endangered wildlife. Ecological Applications, 21, 2469-2477.
+86;590;ConsBiol;2012;Earnst;2;10;1991-2002;12;USA;Landscape;USA;"Plants; Aves";Mixed;Community;Ecological processes;Quasi experimental;1;1;0;0;1;1;"The removal
+of cattle from this relatively large landscape (112,500 ha)
+in 1990 and subsequent monitoring of vegetation and
+avian abundance in years 1–3 and 10–12 after cattle removal,
+provide a unique opportunity to investigate longterm
+consequences of cattle removal at a landscape scale
+(Earnst et al. 2005).";DB;
+122;636;EcolAppl;2010;Gavier-Pizarro;4;66;NA;NA;USA;Country;USA;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;2;2;"To assess relationships
+between broad-scale distribution of exotic invasive plant
+richness and housing, we focused on these three research
+questions using a broad scale database of invasive exotic
+plant richness for New England, USA";DB;Gavier-Pizarro, G.I., Radeloff, V.C., Stewart, S.I., Huebner, C.D. & Keuler, N.S. (2010) Housing is positively associated with invasive exotic plant species richness in New England, USA. Ecological Applications, 20, 1913-1925.
+69;874;EcolAppl;2009;Ibanez;5;64;NA;NA;USA;Country;USA;Plantea;Plants;Population;Projection & forecasting;Non experimental;0;0;0;0;1;1;"We aim to answer the following questions: (1) What are the climatic limits for the spread of our focal species across the region? (2) Given the current climate, which are the most vulnerable areas in the region? (3) What types of land uses facilitate invasions? (4) Which landscape structures are more resistant to invasions? (5) At a local scale, which are the habitats favored by particular invasive species? By addressing all these issues
+simultaneously we expect to produce reliable forecasts of potential distributions, thus providing direct guidelines for the early detection and management of three invasive plant species.";EBN;Ibanez, I., Silander, J.A., Wilson, A.M., Lafleur, N., Tanaka, N. & Tsuyama, I. (2009) Multivariate forecasts of potential distributions of invasive plant species. Ecological Applications, 19, 359-375.
+61;939;EcolAppl;2009;Kaplan;2;19;1999-2000;2;USA;Local;USA;Solanum tuberosum;Plants;Population;Ecological processes;Experimental;1;1;0;1;1;1;"Thus, the goal of our study was to use
+intraspecific variation in trichome density among potato
+cultivars to assess the impact of trichomes on leafhopper
+abundance, leafhopper-induced damage, plant yield,
+and plant tolerance to herbivory. Understanding the
+relationships among these variables is central to the
+development of plant cultivars that can simultaneously
+resist herbivores and tolerate damage while maintaining
+yield.";EBN;Kaplan, I., Dively, G.P. & Denno, R.F. (2009) The costs of anti-herbivore defense traits in agricultural crop plants: a case study involving leafhoppers and trichomes. Ecological Applications, 19, 864-872.
+120;956;EcolAppl;2008;Kays;2;44;1998-2000;3;USA;Landscape;USA;Canis latrans;Vertebrates;Population;Ecological processes;Non experimental;3;1;0;1;0;1;"These abundancebased
+models allow us to evaluate the general suitability
+of rural vs. forested habitats within the study area, as
+well as the more specific features that explain patterns of
+coyote abundance in a region. In particular, if eastern
+forests represent unsuitable habitat we predict that coyote abundance will be correlated negatively with
+forest cover across the landscape and positively with
+anthropogenic features that describe the open rural
+landscapes of this region";DB;Kays, R.W., Gompper, M.E. & Ray, J.C. (2008) Landscape ecology of eastern coyotes based on large-scale estimates of abundance. Ecological Applications, 18, 1014-1027.
+71;969;EcolAppl;2011;Keim;2;17;2009;1;Canada;Landscape;Canada;Lepus americanus;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;1;2;"The goal of this paper is to test whether prey habitat is
+a viable surrogate for the amount of resource use by prey. We use Canada lynx (Lynx canadensis) and snowshoe hare (Lepus americanus; hereafter hare) from northern Alberta, Canada as a model system because lynx are tied to a single prey species, hare, within the northern boreal forest. Lynx are generally known to select for areas used by hare (Squires and Ruggiero 2007, Bayne et al. 2008) and, in northern Alberta, their winter diet is composed almost exclusively of hare (91%; Brand et al. 1976). Here we assess whether lynx selection is better characterized by the amount of hare use (snow tracks per kilometer per day) or hare habitat as estimated using resource selection modeling techniques.";EBN;Keim, J.L., DeWitt, P.D. & Lele, S.R. (2011) Predators choose prey over prey habitats: evidence from a lynx-hare system. Ecological Applications, 21, 1011-1016.
+70;1059;EcolAppl;2013;Larson;4;46;2011;1;USA;Landscape;USA;Pinus ponderosa;Plants;Population;Ecological processes;Non experimental;3;1;1;1;1;1;"The objective of this study is to quantify effects of
+repeat lightning-ignited wildfires on forest structure and
+composition in unlogged, fire-excluded, ponderosa pine
+forest. We evaluate two alternative hypotheses: (1)
+reintroduction of fire causes transition to a forest
+structure and composition marked by loss of large
+ponderosa pine and dominance of lodgepole pine (Pinus
+contorta; T2 in Fig. 1) and (2) reintroduction of fire
+causes transition back to low-density mixed-conifer
+forest dominated by large ponderosa pine by preferentially killing small-diameter trees that established during the fire exclusion period (T3 in Fig. 1).";EBN;Larson, A.J., Belote, R.T., Cansler, C.A., Parks, S.A. & Dietz, M.S. (2013) Latent resilience in ponderosa pine forest: effects of resumed frequent fire. Ecological Applications, 23, 1243-1249.
+84;1124;EcolAppl;2007;Logan;3;34;NA;NA;USA;Country;USA;Lymantria dispar;Invertebrates;Population;Methods;Non experimental;0;0;0;0;1;1;"We evaluated risk for establishment
+of a detected introduction by combining a hazard
+analysis developed by Re´gnie`re and Nealis (2002) with
+additional data layers that are specific to Utah";DB;Logan, J.A., Regniere, J., Gray, D.R. & Munson, A.S. (2007) Risk assessment in the face of a changing environment: Gypsy moth and climate change in Utah. Ecological Applications, 17, 101-117.
+94;1268;EcolAppl;2012;Miller;5;31;2010;1;USA;Local;USA;Frogs;Vertebrates;Population;Methods;Quasi experimental;1;0;0;1;2;2;"We present results from a study of false positive (and
+false negative) errors for methods typically used to
+determine patterns of species occurrence from auditory
+cues";DB;Miller, D.A.W., Weir, L.A., McClintock, B.T., Grant, E.H.C., Bailey, L.L. & Simons, T.R. (2012) Experimental investigation of false positive errors in auditory species occurrence surveys. Ecological Applications, 22, 1665-1674.
+36;1381;EcolAppl;2011;O`Rourke;1;11;2006-2007;2;USA;Landscape;USA;Zea mays;Plants;Population;Ecological processes;Non experimental;1;1;0;0;1;1;In this study we combined empirical data and computational modeling to address the following three questions: (1) Are herbivore densities lower in diverse landscapes relative to simple agricultural landscapes? (2) Which types of insects, based on life history, are most sensitive to landuse change? (3) How is pesticide use related to land use and how does that affect landscape–herbivore relationships?;EBN;O'Rourke, M.E. & Jones, L.E. (2011) Analysis of landscape-scale insect pest dynamics and pesticide use: an empirical and modeling study. Ecological Applications, 21, 3199-3210.
+145;1507;EcolAppl;2015;Quesnelle;2;7;NA;NA;NA;Global;Canada;Vertebrates;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;2;2;"we conducted a meta-analysis to
+determine whether, and for what species groups, the
+focus on wetland conservation is likely to fail to
+conserve populations of wetland-dependent species";DB;Quesnelle, P.E., Lindsay, K.E. & Fahrig, L. (2015) Relative effects of landscape-scale wetland amount and landscape matrix quality on wetland vertebrates: a meta-analysis. Ecological Applications, 25, 812-825.
+147;1732;EcolAppl;2012;Singh;4;77;2003-2011;9;Sweden;Regional;Sweden;Alces alces;Vertebrates;Population;Ecological processes;Non experimental;3;0;0;1;1;1;"Using a multi-annual movement data
+set of 213 individual moose (Alces alces) across a latitudinal gradient (from 568 to 678 N) that
+spans over 1100 km of varying environmental conditions, we analyze the differences in
+individual and population-level movements. We hereby test the following predictions to
+explain variation in movements of individuals and
+multiple populations of a single species across a
+latitudinal gradient of environmental variation";DB;Singh, N.J., Borger, L., Dettki, H., Bunnefeld, N. & Ericsson, G. (2012) From migration to nomadism: movement variability in a northern ungulate across its latitudinal range. Ecological Applications, 22, 2007-2020.
+119;1793;EcolAppl;2015;Storkey;6;19;2009-2011;3;UK;Landscape;UK;Plants;Plants;Community;Ecological processes;Experimental;0;0;0;0;1;1;"A range of legume species were grown in
+monocultures at multiple sites across a geographical
+gradient in the United Kingdom in order to screen for
+functional traits and ecosystem service delivery. These
+data were used to identify the species mixture with the
+appropriate level of complexity that reconciles productivity
+with a more recalcitrant residue composition and a
+number of other ecosystem services: soil fertility
+building (assessed as following grain crop yield), weed
+suppression, and support of invertebrates. To validate
+our approach, a complex mix of ten legumes and four
+grass species, referred to as the ‘‘all species mix’’ (ASM),
+was also grown at all sites and assessed for the delivery
+of the ecosystem services";DB;Storkey, J., Doring, T., Baddeley, J., Collins, R., Roderick, S., Jones, H. & Watson, C. (2015) Engineering a plant community to deliver multiple ecosystem services. Ecological Applications, 25, 1034-1043.
+137;1794;EcolAppl;2015;Stralberg;8;24;1992-2010;19;Canada;Regional;Canada;Aves;Vertebrates;Community;Projection & forecasting;Non experimental;0;0;0;0;2;2;"Here, we used an extensive boreal bird data set for
+North America (Cumming et al. 2010) to evaluate the signal-to-noise ratio for projected changes in boreal bird
+abundance over the next century";DB;Stralberg, D., Matsuoka, S.M., Hamann, A., Bayne, E.M., Solymos, P., Schmiegelow, F.K.A., Wang, X., Cumming, S.G. & Song, S.J. (2015) Projecting boreal bird responses to climate change: the signal exceeds the noise. Ecological Applications, 25, 52-69.
+15;1833;EcolAppl;2011;Tanaka;2;3;2001-2008;8;Thailand;Local;Japan;Tectona grandis;Plants;Population;Natural history;Non experimental;0;0;0;0;0;0;"The present study documents interannual variation in
+the length of the period from the beginning to the peak
+of leaf expansion at the stand level under natural
+conditions. Leaf growth periods have not been investigated
+at the stand level, although previous studies have
+examined annual variation in canopy duration in a teak
+plantation (Yoshifuji et al. 2006, Tanaka et al. 2009).";EBN;Tanaka, K., Tantasirin, C. & Suzuki, M. (2011) Interannual variation in leaf expansion and outbreak of a teak defoliator at a teak stand in northern Thailand. Ecological Applications, 21, 1792-1801.
+142;1910;EcolAppl;2014;van de Voorde;4;14;2011;1;The Netherlands;Local;The Netherlands;Plants;Plants;Community;Ecological processes;Experimental;3;1;0;1;1;1;"In this study, we examined the effect of soil
+amendment with biochar on plant productivity and
+community composition in a species–rich restoration
+grassland";DB;van de Voorde, T.F.J., Bezemer, T.M., Van Groenigen, J.W., Jeffery, S. & Mommer, L. (2014) Soil biochar amendment in a nature restoration area: effects on plant productivity and community composition. Ecological Applications, 24, 1167-1177.
+29;2030;EcolAppl;2006;Wintle;1;71;NA;NA;Australia;landscape;Australia;Petaurus australis;Vertebrates;Population;Methods;Non experimental;0;0;0;0;2;2;"Here, we will detail the technical issues associated
+with the autologistic model and will then introduce a
+simulated ‘‘virtual glider’’ distribution. This distribution
+will be used throughout the paper to demonstrate and
+test the model under a range of scenarios, with varying
+underlying spatial autocorrelation and a range of survey
+sampling intensities and designs.";EBN;Wintle, B.A. & Bardos, D.C. (2006) Modeling species-habitat relationships with spatially autocorrelated observation data. Ecological Applications, 16, 1945-1958.
+88;49;J Wildl Man;2015;Augustine;1;6;2007-2010;4;USA;Landscape;USA;"Plants; Aves";Mixed;Community;Ecological processes;Experimental;3;1;0;1;1;1;"We examined the effects of fire and fire-grazer
+interactions on a community of grassland bird species in
+the shortgrass steppe of northeastern Colorado";DB;Augustine, D.J. & Derner, J.D. (2015) Patch-burn grazing management, vegetation heterogeneity, and avian responses in a semi-arid grassland. Journal of Wildlife Management, 79, 927-936.
+138;263;J Wildl Man;2012;Beasley;1;9;2007;1;USA;Landscape;USA;Procyon lotor;Vertebrates;Population;Ecological processes;Non experimental;3;1;0;0;0;1;"During a contemporaneous raccoon removal experiment,
+we obtained reproductive and cementum annuli-derived age
+data for raccoons in 30 forest patches within a highly fragmented
+agricultural ecosystem in northern Indiana. Our
+objectives were to: 1) determine the proportion of females
+reproducing as a function of age, as well as age-specific
+average litter sizes across the overall agricultural ecosystem,
+2) test the hypothesis that reproductive variability exists
+among habitat patches within agricultural ecosystems, and
+3) determine the relative importance of local and landscape
+habitat attributes on overall levels of patch-specific reproductive
+output";DB;Beasley, J.C. & Rhodes, O.E. (2012) Are raccoons limited by the availability of breeding resources? Evidence of variability in fecundity at fine spatial scales. Journal of Wildlife Management, 76, 1718-1724.
+127;280;JApplEcol;2009;Bergstrom;6;176;2000-2001;2;Australia;Landscape;Australia;"Oryctolagus cuniculus; Vegetation";Vertebrates;Community;Ecological processes;Quasi experimental;1;0;0;0;1;1;"Here, we combine population data on invasive herbivorous
+rabbits
+Oryctolagus cuniculus
+(L.), plot-scale vegetation analyses,
+climate analysis and landscape change detection techniques
+using satellite imagery, to show how a local management
+intervention, the eradication of feral cats
+Felis catus
+L., has
+precipitated a trophic cascade leading to rapid, landscapewide
+ecosystem changes on sub-Antarctic Macquarie Island.";DB;Bergstrom, D.M., Lucieer, A., Kiefer, K., Wasley, J., Belbin, L., Pedersen, T.K. & Chown, S.L. (2009) Indirect effects of invasive species removal devastate World Heritage Island. Journal of Applied Ecology, 46, 73-81.
+124;361;J Wildl Man;2011;Boulanger;3;8;1986-2009;24;Canada;Landscape;Canada;Rangifer tarandus groenlandicus;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;1;1;"A key research and management question was whether the decline was
+mainly due to decreases in productivity alone or also due to reduced adult female survival. Investigating causes
+of the decline was hampered by a lack of direct estimates of caribou demographic parameters. We developed a
+demographic model that could be objectively fitted to field data to explore the mechanisms for the Bathurst
+decline, with a focus on the recent accelerated decline from 2006 to 2009";DB;Canessa, S., Hunter, D., McFadden, M., Marantelli, G. & McCarthy, M.A. (2014) Optimal release strategies for cost-effective reintroductions. Journal of Applied Ecology, 51, 1107-1115.
+102;378;JApplEcol;2014;Canessa;4;16;NA;NA;Australia;Landscape;Australia;Frogs;Vertebrates;Population;Methods;Non experimental;0;0;0;0;2;2;"In this study, we use population models to assess
+the cost-effectiveness of alternative release strategies for species with complex life histories";DB;Canessa, S., Hunter, D., McFadden, M., Marantelli, G. & McCarthy, M.A. (2014) Optimal release strategies for cost-effective reintroductions. Journal of Applied Ecology, 51, 1107-1115.
+5;47;J Wildl Man;2015;Carleton;2;1;2003-2008;6;USA;Regional;USA;Zenaida asiatica;Vertebrates;Population;Natural history;Non experimental;3;1;0;1;0;0;"To determine if we could
+differentiate populations of white-winged doves across their
+breeding ranges in the United States, we used stable isotope
+analysis to test the hypothesis that white-winged dove
+feathers vary longitudinally across their breeding range in the
+United States as would be predicted from interpolated maps
+of growing season d2Hp (Bowen and Ravenaugh 2003).";EBN;Carleton, S.A., Del Rio, C.M. & Robinson, T.J. (2015) Feather isotope analysis reveals differential patterns of habitat and resource use in populations of white-winged doves. Journal of Wildlife Management, 79, 948-956.
+79;388;JApplEcol;2012;Carvalheiro;3;53;2009;1;South-Africa;Landscape;UK;Mangifera indica;Plants;Population;Ecological processes;Non experimental;2;0;0;1;1;1;"Mango flowers are unspecialised, enabling pollination by
+most insects (Heard 1999). These pollinators are critical for
+successful fruit set of mango flowers (Free & Williams,
+1976, Anderson 1982, Richards 2001; Carvalheiro et al.
+2010) and are sensitive to isolation from natural habitat,
+but sometimes also to pesticides (De Siqueira et al. 2008).
+We therefore expected isolation from natural habitat to be
+the main cause of flower visitor losses within mango fields.
+As floral diversity can positively influence diversity of
+flower visitors (Klein, Steffan-Dewenter & Tscharntke
+2003b; Ebeling et al. 2008; Winfree et al. 2008; Carvalheiro et al. 2011), we anticipated that NFCAs might ameliorate
+negative effects of isolation from natural habitat on flower
+visitors and mango production.";EBN;Carvalheiro, L.G., Seymour, C.L., Nicolson, S.W. & Veldtman, R. (2012) Creating patches of native flowers facilitates crop pollination in large agricultural fields: mango as a case study. Journal of Applied Ecology, 49, 1373-1383.
+76;399;JApplEcol;2011;Ceulemans;3;31;2009-2010;2;Europe;Regional;Belgium;Plantea;Plants;Community;Ecological processes;Non experimental;1;0;0;0;1;1;"We investigated the occurrence
+of 61 plant species in relation to soil N and P availability in 132 semi-natural grasslands inNorth-western Europe across a gradient of N and P availability. More specifically, we addressed the following questions: (i) Is species occurrence in semi-natural grasslands mainly constrained by N or by P availability, or are both nutrients equally (un)important? (ii) Is the occurrence of regionally declining plant species more constrained
+by N or by P enrichment than the occurrence of nondeclining species? (iii) Do plant traits associated with effective nutrient acquisition and capturing of light under increased shading mediate the susceptibility of species to N or P enrichment?";EBN;Ceulemans, T., Merckx, R., Hens, M. & Honnay, O. (2011) A trait-based analysis of the role of phosphorus vs. nitrogen enrichment in plant species loss across North-west European grasslands. Journal of Applied Ecology, 48, 1155-1163.
+25;402;JApplEcol;2007;Chalfoun;1;110;2003-2005;3;USA;Landscape;USA;Spizella breweri;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;2;1;"We examined breeding habitat preferences
+and several fitness components (nest success, seasonal
+reproductive success, clutch size, clutch mass, nestling
+mass and numbers of nesting attempts) of a migratory
+passerine bird across multiple ecologically relevant
+spatial scales: the landscape, territory and nest patch.
+Specifically, we examined whether the importance of
+different habitat features changes with respect to critical
+fitness consequences across scales, and can help to explain
+mismatches between habitat preferences and fitness
+consequences, aiding future approaches to determining
+habitat quality for management prescriptions";EBN;Chalfoun, A.D. & Martin, T.E. (2007) Assessments of habitat preferences and quality depend on spatial scale and metrics of fitness. Journal of Applied Ecology, 44, 983-992.
+13;478;J Wildl Man;2007;Chiron;1;24;2003-2005;3;France;Local;France;Passeriformes;Vertebrates;Community;Ecological processes;BACI;2;1;0;1;1;1;"In a suburban environment, we conducted experiments to test whether magpie predation had an effect on the
+fecundity and the numbers of adult songbirds. We expected magpie predation decrease fecundity for open-nesting, but not for hole-nesting, songbirds (Birkhead 1991, Newton 1998). Second, we compared the relative density of the surveyed prey populations between urban and rural habitats at the scale of the Atlantic biogeographic zone in France. We also tested whether the variation of relative densities of songbird populations may be correlated to variation in fecundity in urbanized versus rural habitats. We hypothesized that a decrease in songbird fecundity due to magpie predation may have reduced urban population densities in cities.";EBN;Chiron, F. & Julliard, R. (2007) Responses of songbirds to magpie reduction in an urban habitat. Journal of Wildlife Management, 71, 2624-2631.
+24;36;JApplEcol;2015;Conette;1;3;2011;1;USA;Local;USA;Plethodon shermani;Vertebrates;Population;Methods;Non experimental;1;1;0;0;1;1;"In this study, we estimated the effects of a two-aged
+regeneration harvest method on survival of a terrestrial
+salamander – Plethodon shermani. We used a portable
+PIT-tag telemetry system to repeatedly relocate salamanders
+in harvested and unharvested survey plots while
+recording whether individuals were active on the ground
+surface using a CMR sampling design. Thus, live observations
+of individuals confirmed survival while PIT-tag
+detection confirmed that an individual, alive or dead, had
+not emigrated from our study area. We estimated survival
+and emigration rates using a novel multistate mark–recapture
+model that integrates this auxiliary PIT-tag detection
+data. Unlike previous studies that incorporated movement
+data (e.g. Powell et al. 2000; Horton, Letcher & Kendall
+2011; Schaub & Royle 2014) or observations of individuals
+outside the core study area to estimate emigration
+rates (e.g. Burnham 1993; Barker 1997; Catchpole et al.
+1998), the continued ability to detect PIT-tags of dead,
+but non-emigrated individuals provides the additional
+information needed to distinctly estimate survival and permanent
+emigration probabilities in our study. Ultimately,
+our approach allows for a comparison among mortality,
+emigration and reduced activity as mechanisms for the
+reduced counts of salamanders commonly observed
+following timber harvest.";EBN;Connette, G.M. & Semlitsch, R.D. (2015) A multistate mark-recapture approach to estimating survival of PIT-tagged salamanders following timber harvest. Journal of Applied Ecology, 52, 1316-1324.
+130;542;J Wildl Man;2007;Cook;4;35;2002;1;USA;Landscape;USA;Odocoileus hemionus;Vertebrates;Individual;Methods;Non experimental;0;0;0;0;0;1;We developed new, and validated existing, indices of nutritional condition for live and dead mule deer (Odocoileus hemionus).;DB;Cook, R.C., Stephenson, T.R., Myers, W.L., Cook, J.G. & Shipley, L.A. (2007) Validating predictive models of nutritional condition for mule deer. Journal of Wildlife Management, 71, 1934-1943.
+132;1;JApplEcol;2015;Curtis;4;12;2006-2010;5;UK;Landscape;UK;Butterflies;Invertebrates;Population;Ecological processes;Non experimental;3;1;0;0;1;2;"In this paper, we test the hypothesis that food availability
+is a good measure of habitat quality in grassland butterflies
+of southern England.";DB;Curtis, R.J., Brereton, T.M., Dennis, R.L.H., Carbone, C. & Isaac, N.J.B. (2015) Butterfly abundance is determined by food availability and is mediated by species traits. Journal of Applied Ecology, 52, 1676-1684.
+83;478;JApplEcol;2011;Davis;3;10;2008-2009;2;USA;Landscape;USA;Camelina sativa;Plants;Population;Methods;Experimental;0;0;0;0;2;2;"This study evaluated the usefulness of a quantitative secondtier
+WRA methodology using Camelina sativa (L.) Crantz
+(camelina, gold-of-pleasure, large-seeded false-flax), a proposed
+biofuel feedstock in the northern Great Plains (NGP),
+USA, as a model species";DB;Davis, P.B., Menalled, F.D., Peterson, R.K.D. & Maxwell, B.D. (2011) Refinement of weed risk assessments for biofuels using Camelina sativa as a model species. Journal of Applied Ecology, 48, 989-997.
+77;480;JApplEcol;2005;De Bello;2;110;2001-2002;2;Spain;Landscape;Spain;Plantea;Plants;Community;Ecological processes;Quasi experimental;1;1;0;1;1;1;"The main objective of this study was to test whether a common set of traits would provide robust predictions of species’ responses to grazing across different climatic conditions and vegetation types. Changes in species’ frequencies in areas under grazed (high and low pressure) and ungrazed conditions were related to plant traits. A representative range of vegetation types along a
+climatic and altitudinal gradient in north-eastern Spain, from lowland arid conditions to upland humid areas, was surveyed for this purpose. A large number of species (404) was considered, which included annuals, grasses, legumes, forbs, shrubs and trees species. The possible relevance of species’ phylogeny on PFT predictive values
+was also evaluated.";EBN;De Bello, F., Leps, J. & Sebastia, M.T. (2005) Predictive value of plant traits to grazing along a climatic gradient in the Mediterranean. Journal of Applied Ecology, 42, 824-833.
+26;630;J Wildl Man;2009;Deyoung;7;10;2005-2006;2;USA;Landscape;USA;Urocyon cinereoargenteus;Vertebrates;Population;Ecological processes;Non experimental;1;1;1;1;0;1;We conducted a series of population genetic analyses aimed at assisting gray fox ORV strategies in western Texas. The specific objective of our study was to estimate the degree and spatial extent of population structuring in the ORV region. If structuring was detected, we would attempt to identify landscape features influencing population structure.;EBN;Deyoung, R.W., Zamorano, A., Mesenbrink, B.T., Campbell, T.A., Leland, B.R., Moore, G.M., Honeycutt, R.L. & Root, J.J. (2009) Landscape-Genetic Analysis of Population Structure in the Texas Gray Fox Oral Rabies Vaccination Zone. Journal of Wildlife Management, 73, 1292-1299.
+74;533;JApplEcol;2011;Edenius;4;23;1953-2007;55;Sweden;Country;Sweden;Populus tremula;Plants;Population;Ecological processes;Quasi experimental;0;0;0;0;1;1;"The objectives of the
+study were: first, to quantify changes in aspen abundance, land use and moose numbers over the past 50 years in Sweden; secondly to evaluate the interactions between these variables at different scales; and thirdly to evaluate the impacts of disturbance and browsing on aspen demographics; and finally, to recommend management strategies to conserve aspen. To achieve the first two objectives, we analysed patterns of abundance of small-sized aspen stems and standing volume of aspen in relation to changes in land use andmoose numbers, in order to quantify their co-variation at national and regional levels. To meet the third objective, we compared aspen regeneration within and outside exclosures to disentangle the effects of disturbance and browsing on aspen demographics.";EBN;Edenius, L., Ericsson, G., Kempe, G., Bergstrom, R. & Danell, K. (2011) The effects of changing land use and browsing on aspen abundance and regeneration: a 50-year perspective from Sweden. Journal of Applied Ecology, 48, 301-309.
+85;31;JApplEcol;2015;Farneda;7;22;2011-2013;3;Brazil;Landscape;"Portugal; Brazil";Bats;Vertebrates;Community;Ecological processes;Non experimental;3;0;0;1;1;1;"We tested the hypothesis that there is a significant
+relationship between species functional traits, environmental gradients (continuous forest and
+fragment interiors, edges and matrix) and patterns of species distribution using phylogenetic
+generalized least squares (PGLS) models, as well as a combination of RLQ and fourth-corner
+analyses";DB;Farneda, F.Z., Rocha, R., Lopez-Baucells, A., Groenenberg, M., Silva, I., Palmeirim, J.M., Bobrowiec, P.E.D. & Meyer, C.F.J. (2015) Trait-related responses to habitat fragmentation in Amazonian bats. Journal of Applied Ecology, 52, 1381-1391.
+44;783;J Wildl Man;2011;Fukuda;6;34;1975-2009;35;Australia;Country;Australia;Crocodylus porosus;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;1;We examined population recovery trends in terms of abundance and biomass in the 12 major tidal rivers subject to regular and standardized monitoring from the 1970s to 2009 (38 yr since protection). We quantified changes in relative abundance (non-hatchling crocodiles sighted per kilometer of river surveyed) and relative biomass (mass of crocodiles sighted per kilometer of river surveyed) for each river and for a subpopulation comprising all rivers combined. We determined which of 3 simple models (linear, exponential, logistic) best described the underlying recover trends.;EBN;Fukuda, Y., Webb, G., Manolis, C., Delaney, R., Letnic, M., Lindner, G. & Whitehead, P. (2011) Recovery of Saltwater Crocodiles Following Unregulated Hunting in Tidal Rivers of the Northern Territory, Australia. Journal of Wildlife Management, 75, 1253-1266.
+12;618;JApplEcol;2013;Fukusawa;3;14;1979-2010;32;Japan;Landscape;Japan;Herpestes auropunctatus;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;0;0;"The first aim of this study is to reconstruct the
+entire population size dynamics and the impact of mongoose
+management, using the record of introduction and
+capture. Considering the long-term eradication plan, the
+time needed to achieve eradication success is also a crucial
+issue. The second aim is to evaluate the eradication feasibility
+of mongooses on Amami Island.";EBN;Fukasawa, K., Hashimoto, T., Tatara, M. & Abe, S. (2013) Reconstruction and prediction of invasive mongoose population dynamics from history of introduction and management: a Bayesian state-space modelling approach. Journal of Applied Ecology, 50, 469-478.
+111;107;JApplEcol;2015;González-Varo;4;3;1956-2002;47;Spain;Landscape;Spain;Myrtus communis;Plants;Population;Ecological processes;Non experimental;3;1;0;1;2;2;"In order to test for extinction debt evidence, we tested whether myrtle occurrence
+is better predicted by past (1956) than by present (2002) woodland cover";DB;Gonzalez-Varo, J.P., Albaladejo, R.G., Aizen, M.A., Arroyo, J. & Aparicio, A. (2015) Extinction debt of a common shrub in a fragmented landscape. Journal of Applied Ecology, 52, 580-589.
+125;917;J Wildl Man;2014;Hagy;8;5;2009-2010;2;USA;Landscape;USA;Anas platyrhynchos;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;1;"We used telemetry and probability-based analytical
+techniques to estimate the stopover duration of mallards
+during autumn migration in central Illinois. Additionally, we
+investigated the factors affecting variation in stopover
+estimates post-capture using mark-recapture models. We
+provide contemporary and robust estimates of a key
+parameter used in wetland habitat models for conservation
+planning for waterfowl in the upper Midwest";DB;Hagy, H.M., Yetter, A.P., Stodola, K.W., Horath, M.M., Hine, C.S., Ward, M.P., Benson, T.J., Smith, R.V. & Stafford, J.D. (2014) Stopover Duration of Mallards During Autumn in the Illinois River Valley. Journal of Wildlife Management, 78, 747-752.
+18;1041;J Wildl Man;2008;Howell;2;9;1995-2000;6;USA;Country;USA;Aves;Vertebrates;Population;Projection & forecasting;Non experimental;0;0;0;0;0;1;"Our objectives were to build empirical hierarchical models
+to predict the probability of occurrence for 9 avian species
+throughout the state of Georgia, USA, and to compare the
+performance of our models to the associated Georgia GAP
+Analysis (GAGAP) models.";EBN;Howell, J.E., Peterson, J.T. & Conroy, M.J. (2008) Building hierarchical models of avian distributions for the state of Georgia. Journal of Wildlife Management, 72, 168-178.
+113;894;JApplEcol;2009;Koerber;6;23;2005-2006;2;UK, Spain, Uganda;Regional;UK;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"The aim of this study was to determine C budgets for soils
+growing vegetables in three contrasting geographical locations
+(UK, Spain and Uganda), all of which supply the UK
+market";DB;
+100;1264;J Wildl Man;2010;Lavelle;7;3;2008;1;USA;Local;USA;Odocoileus;Vertebrates;Population;Methods;Quasi experimental;0;0;0;0;1;1;"We conducted
+a preliminary study to evaluate efficacy of a rapidly
+deployable 2.1-m-high polypropylene mesh (poly-mesh)
+fence for containing white-tailed deer";DB;Lavelle, M.J., Fischer, J.W., Hygnstrom, S.E., White, J.J., Hildreth, A.M., Phillips, G.E. & Vercauteren, K.C. (2010) Response of Deer to Containment by a Poly-Mesh Fence for Mitigating Disease Outbreaks. Journal of Wildlife Management, 74, 1620-1625.
+93;1302;J Wildl Man;2008;Link;2;21;1969-2004;36;USA, Canada;Regional;USA;Colinus virginianus;Vertebrates;Population;Methods;Non experimental;0;0;0;0;0;0;"Annual surveys of wildlife populations provide information about annual rates of change in populations but provide no
+information about when such changes occur. However, by combining data from 2 annual surveys, conducted in different parts of the year,
+seasonal components of population change can be estimated. We describe a hierarchical model for simultaneous analysis of 2 continent-scale
+monitoring programs. The Christmas Bird Count is an early winter survey, whereas the North American Breeding Bird Survey is conducted in
+June. Combining information from these surveys permits estimation of seasonal population variance components and improves estimation of
+long-term population trends.";DB;Link, W.A., Sauer, J.R. & Niven, D.K. (2008) Combining breeding bird survey and Christmas Bird Count data to evaluate seasonal components of population change in northern bobwhite. Journal of Wildlife Management, 72, 44-51.
+27;1355;J Wildl Man;2008;MacNulty;2;5;2005-2006;2;USA;Local;USA;"Bison bison; Canis latrans; Ursus arctos; Canis lupus";Vertebrates;Population;Methods;Non experimental;0;0;0;0;2;2;"We address these technology gaps by evaluating a new
+remotely operated video and telemetry system (VTS) that we developed to sample wildlife abundance, distribution, and behavior in real time in an open valley in Yellowstone National Park (YNP), USA. Our objectives were to 1) test whether data produced by the VTS were equivalent to those generated by a field researcher and 2) assess the intensive and extensive sampling capabilities of the VTS, including whether it was useful for tracking wildlife responses to environmental change. Bison (Bison bison) are poorly adapted to snow (Telfer and Kelsall 1984) so we expected bison abundance in the study area to vary inversely with snow depth. We conclude with a discussion of the system’s advantages and disadvantages.";EBN;MacNulty, D.R., Plumb, G.E. & Smith, D.W. (2008) Validation of a New Video and Telemetry System for Remotely Monitoring Wildlife. Journal of Wildlife Management, 72, 1834-1844.
+39;1404;J Wildl Man;2008;McCann;2;13;2004-2006;3;USA;Landscape;USA;Lepus americanus;Vertebrates;Population;Methods;Non experimental;0;0;0;1;0;1;"We calibrated hare numbers with pellet counts and
+expected that they would be positively related. We then
+compared equations developed using annual pellet counts
+with equations developed using semiannual counts and
+compared equations developed using functional regression
+with equations developed using linear regression. We
+expected that using semiannual pellet counts with functional
+regression would improve the correlation between hare
+numbers and pellet counts because semiannual counts would
+reduce the effect of seasonal variation in pellet deposition and decomposition rates and because functional regression
+has been preferred in similar studies (Mills et al. 2005,
+Homyack et al. 2006). Lastly, we identified minimum mean
+pellet counts expected to support lynx in Minnesota, USA,
+given the current understanding of the relationship between
+hare numbers and lynx persistence.";EBN;McCann, N.P., Moen, R.A. & Niemi, G.J. (2008) Using pellet counts to estimate snowshoe hare numbers in Minnesota. Journal of Wildlife Management, 72, 955-958.
+82;1477;J Wildl Man;2012;Milakovic;5;8;2001-2004;4;Canada;Landscape;Canada;Ursus arctos;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;1;"Our objective was to describe habitat selection by female
+grizzly bears in the northern Rocky Mountains of BC";DB;Milakovic, B., Parker, K.L., Gustine, D.D., Lay, R.J., Walker, A.B.D. & Gillingham, M.P. (2012) Seasonal habitat use and selection by grizzly bears in Northern British Columbia. Journal of Wildlife Management, 76, 170-180.
+34;1573;J Wildl Man;2012;Niedzialkowska;3;13;2004-2007;4;Poland;Landscape;Poland;Cervus elaphus;Vertebrates;Population;Ecological processes;Non experimental;0;0;0;0;1;1;"The aims of our study, conducted in northeastern Poland,
+were to 1) evaluate the effects of the past human management and demographic fluctuations on present genetic diversity and genetic structure in the region; 2) identify if any red deer in the study region could be remnants of the autochthonous population, and therefore of potential conservation value; and 3) assess if the genetic make up of contemporary populations have been more influenced by historic translocations or the expansion of remnant native deer.";EBN;Niedzialkowska, M., Jedrzejewska, B., Wojcik, J.M. & Goodman, S.J. (2012) Genetic structure of red deer population in northeastern Poland in relation to the history of human interventions. Journal of Wildlife Management, 76, 1264-1276.
+3;1596;J Wildl Man;2005;Olson;8;96;1990-2002;13;USA;Landscape;USA;Strix occidentalis;Vertebrates;Population;Ecological processes;Non experimental;3;1;0;1;0;0;"In summary, we intended to investigate annual
+variation, potential time trends, and the effect of
+barred owl presence on site occupancy of northern
+spotted owls on 3 study areas in Oregon using
+open population site occupancy models developed
+by MacKenzie et al. (2003). We hypothesized
+that spotted owl site detection and site occupancy rates would be negatively affected by the presence
+of barred owls.";EBN;Olson, G.S., Anthony, R.G., Forsman, E.D., Ackers, S.H., Loschl, P.J., Reid, J.A., Dugger, K.M., Glenn, E.M. & Ripple, W.J. (2005) Modeling of site occupancy dynamics for northern spotted owls, with emphasis on the effects of barred owls. Journal of Wildlife Management, 69, 918-932.
+129;1615;J Wildl Man;2009;Pagano;1;29;2006;1;USA;Landscape;USA;Birds;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;1;"We used an independent double-observer approach to test
+reliability of ground-based counts of breeding ducks.";DB;Pagano, A.M. & Arnold, T.W. (2009) Detection Probabilities for Ground-Based Breeding Waterfowl Surveys. Journal of Wildlife Management, 73, 392-398.
+108;1266;JApplEcol;2007;Rolando;3;41;2004-2005;2;Italy;Landscape;Italy;Aves;Vertebrates;Community;Ecological processes;Quasi experimental;2;1;0;1;1;1;"This study is part of a large project investigating the
+effects of ski-pistes on alpine avifauna and was undertaken
+to provide information on the effect of ski-runs
+on high-altitude grassland bird communities in the Alps.
+We compared bird diversity and community composition
+in circular plots centred on (i) ski-runs of
+recent construction, (ii) grassland habitats adjacent to
+ski-runs and (iii) natural grassland habitats far from
+the ski-runs. In particular, we examined whether avian diversity
+is lower in the pistes than in the other habitats (as
+expected, assuming the construction of ski-runs causes
+a profound direct disturbance) and whether it was
+higher in grasslands further from rather than near
+the pistes (as expected assuming ski-runs also exert an
+indirect disturbance).";DB;Rolando, A., Caprio, E., Rinaldi, E. & Ellena, I. (2007) The impact of high-altitude ski-runs on alpine grassland bird communities. Journal of Applied Ecology, 44, 210-219.
+103;1574;J Wildl Man;2006;Roy Nielsen;2;13;2000-2003;4;USA;Landscape;USA;Aix sponsa;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;1;We investigated intraspecific nest parasitism of wood ducks in natural cavities with the use of microsatellite techniques;DB;Nielsen, C.L.R., Gates, R.J. & Parker, P.G. (2006) Intraspecific nest parasitism of wood ducks in natural cavities: Comparisons with nest boxes. Journal of Wildlife Management, 70, 835-843.
+41;1290;JApplEcol;2006;Rudlöf;1;149;2003-2004;2;Sweden;Landscape;Sweden;Lepidoptera;Invertebrates;Community;Ecological processes;Quasi experimental;1;1;0;0;1;1;"In this study we evaluated the consequences of both
+organic farming and landscape heterogeneity on the
+species richness and abundance of butterflies on farmland
+in southern Sweden. By using a design in which we
+compared the consequences of farming practice in
+replicated landscapes of different complexity, we considered
+in particular whether the consequence of organic
+farming depends on the structure of the landscape. We
+also investigated the occurrence of organic farming in
+relation to agricultural productivity, to assess whether
+the distribution depends on farming intensity.";EBN;Rundlof, M. & Smith, H.G. (2006) The effect of organic farming on butterfly diversity depends on landscape context. Journal of Applied Ecology, 43, 1121-1127.
+37;1826;J Wildl Man;2012;Russel;6;31;2005-2006;2;USA;Landscape;USA;Puma concolor;Vertebrates;Population;Methods;Non experimental;0;0;0;0;1;2;"We apply these methods to unstructured search-encounter
+data for mountain lions, where, similar to Thompson et al.
+(2012), paths are not established a priori. In our study, the
+intensity of effort is determined adaptively in response to the
+surveyor’s previous success at detecting a mountain lion in
+the area. Lastly, we include goodness-of-fit methods for
+these types of analysis.";EBN;Russell, R.E., Royle, J.A., Desimone, R., Schwartz, M.K., Edwards, V.L., Pilgrim, K.P. & Mckelvey, K.S. (2012) Estimating abundance of mountain lions from unstructured spatial sampling. Journal of Wildlife Management, 76, 1551-1561.
+78;1313;JApplEcol;2007;Sattler;3;96;2002;1;Switzerland;Country;Switzerland;Chiroptera;Vertebrates;Population;Natural history;Non experimental;0;0;0;0;0;0;"The main aims of this study were: (1) to assess the current range of the two cryptic species
+P. pipistrellus and P. pygmaeus
+in the six biogeographical regions of Switzerland and to draw predictive distribution maps; (2) to re-evaluate their national conservation status; and (3) to investigate their species-specific ecological habitat requirements as a basis for proposing tailored conservation guidance.";EBN;Sattler, T., Bontadina, F., Hirzel, A.H. & Arlettaz, R. (2007) Ecological niche modelling of two cryptic bat species calls for a reassessment of their conservation status. Journal of Applied Ecology, 44, 1188-1199.
+45;1500;JApplEcol;2005;Vaughan;1;53;1995-2002;8;UK;Country;UK;Birds;Vertebrates;Ecosystem (landscape);Methods;Non experimental;0;0;0;0;1;2;"We have illustrated simple but potentially important
+improvements in the handling and reduction of ecological data using variable clustering and generalized PCA. Using river habitats as a case study, we first applied both conventional PCA and variable clustering to a large
+RHS data set, and considered the interpretability of
+the reduced data. Secondly, we compared the analytical
+efficacy of variable clustering methods against conventional PCA by examining the predictive performance of models for Welsh river birds, built on the same RHS data but reduced in different ways. For some species this step also provided the opportunity to illustrate the use of PCA generalized for qualitative data. Ultimately, we hoped to illustrate how PCA-based data reduction can be made more useful for applied ecology, where pragmatic concerns may be just as important as statistical efficiency.";EBN;Vaughan, I.P. & Ormerod, S.J. (2005) Increasing the value of principal components analysis for simplifying ecological data: a case study with rivers and river birds. Journal of Applied Ecology, 42, 487-497.
+89;224;JApplEcol;2005;Åström;3;57;2002-2003;2;Sweden;Landscape;Sweden;"Bryophytes; Plants";Plants;Community;Ecological processes;Quasi experimental;0;0;0;0;1;1;"We present a more realistic and comprehensive
+study, assessing the impact of commercial slash
+harvest on entire communities of liverworts, mosses
+and vascular plants using large plots in many clear-cut
+stands. By comparing matched pairs of conventional
+and slash-harvested stands, we investigated effects on
+species composition and species richness";DB;Astrom, M., Dynesius, M., Hylander, K. & Nilsson, C. (2005) Effects of slash harvest on bryophytes and vascular plants in southern boreal forest clear-cuts. Journal of Applied Ecology, 42, 1194-1202.
+115;171;RestorEcol;2009;Bauer;2;10;2004-2007;4;USA;Local;USA;Plants;Plants;Community;Ecological processes;Experimental;3;1;0;1;0;0;"We tested the following hypotheses: (1) Second-year
+garlic mustard plants are strong competitors with first-year
+plants, which leads to alternating dominance of first- and
+second-year plants and (2) garlic mustard is a good
+competitor with native plants and is displacing native
+species. Based on these hypotheses, we made the following
+predictions: (1) In the first year, removal of secondyear
+garlic mustard plants will increase the abundance of
+first-year plants and native vegetation; (2) repeated
+removal of second-year garlic mustard will cause a decline
+in first-year garlic mustard plants, because of decreasing
+seed input, and an increased abundance of native ground
+layer species; and (3) early spring (March) removal of
+second-year garlic mustard will positively affect first-year
+plants more than late removal (May) because first-year
+plants will compete with second-year plants for a shorter
+period of time";DB;Bauer, J.T., Anderson, R.C. & Anderson, M.R. (2010) Competitive Interactions among First-Year and Second-Year Plants of the Invasive, Biennial Garlic Mustard (Alliaria petiolata) and Native Ground Layer Vegetation. Restoration Ecology, 18, 720-728.
+139;186;RestorEcol;2014;Bernstein;4;6;2006-2011;6;USA;Local;USA;"Bunchgrasses (Achnatherum hymenoides, Hesperostipa
+comata, Poa secunda, and Elymus elymoides)";Plants;Population;Ecological processes;Experimental;0;0;0;0;0;0;"We conducted a seeding experiment on an
+arid (15.4 cm rain/year), historically heavily-grazed rangeland
+in Northern Arizona to test the effects of seeding
+technique and simulated seasonal climate scenarios on
+germination and recruitment of four species of native,
+cool-season bunchgrasses.";DB;Bernstein, E.J., Albano, C.M., Sisk, T.D., Crews, T.E. & Rosenstock, S. (2014) Establishing Cool-Season Grasses on a Degraded Arid Rangeland of the Colorado Plateau. Restoration Ecology, 22, 57-64.
+116;227;RestorEcol;2008;Brooks;2;26;2004-2005;2;Australia;Landscape;Australia;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"There
+are three main aims of this study: (1) to describe the vegetation
+community structure and composition in invaded
+and noninvaded savanna to determine if alternative states
+can be defined and recognized using structural characteristics;
+(2) to assess the congruity of the King and Hobbs
+(2006) framework with the empirical data collected in this
+study and other available structural and functional data;
+and (3) to assess the usefulness of the framework in
+detecting the nature of the degradation threshold and
+identifying appropriate management strategies";DB;Brooks, K.J., Setterfield, S.A. & Douglas, M.M. (2010) Exotic Grass Invasions: Applying a Conceptual Framework to the Dynamics of Degradation and Restoration in Australia's Tropical Savannas. Restoration Ecology, 18, 188-197.
+2;238;RestorEcol;2010;Brunson;2;8;2005-2006;2;USA  ;Local;USA;Ruderals (Invasive plant species);Plants;Community;Ecological processes;Experimental;3;0;0;1;1;1;"Our primary research objective was to apply a range of
+increasing C doses as sucrose to cheatgrass- and medusaheadinvaded
+sites to establish whether and by how much ruderal
+plant biomass and seed production decreased. We expected
+to find a threshold dose of C below which lower doses of C
+would have little or no effect, but above which plant yields
+would decrease. As C doses increased, an asymptotic threshold
+would be reached where further additions resulted in no
+further decline in plant yields. We also hypothesized that dose
+responses between cheatgrass and medusahead would differ.
+Finally, to test the mechanism driving the plant responses to
+C addition, we sought to determine the responses of microbial
+biomass C and N to soil C, which we predicted would increase,
+and inorganic soil N to soil C, which we predicted would
+decrease.";EBN;Brunson, J.L., Pyke, D.A. & Perakis, S.S. (2010) Yield Responses of Ruderal Plants to Sucrose in Invasive-Dominated Sagebrush Steppe of the Northern Great Basin. Restoration Ecology, 18, 304-312.
+118;302;RestorEcol;2008;Craven;2;19;2003-2006;4;Panama;Local;Panama;"Terminalia amazonia; Tectona grandis";Plants;Population;Ecological processes;Quasi experimental;3;1;0;1;0;0;"For the present study, we formulated the following
+hypotheses to examine whether weed control treatments
+of varying intensities affected tree growth and mortality of
+two timber species (Tectona grandis and Terminalia amazonia)
+and the costs of grass control treatments in S. spontaneum
+grasslands";DB;Craven, D., Hall, J. & Verjans, J.M. (2009) Impacts of Herbicide Application and Mechanical Cleanings on Growth and Mortality of Two Timber Species in Saccharum spontaneum Grasslands of the Panama Canal Watershed. Restoration Ecology, 17, 751-761.
+121;330;RestorEcol;2006;De Steven;3;31;1999-2003;5;USA;Landscape;USA;Plants;Plants;Community;Ecological processes;BACI;2;1;0;1;1;1;"The
+project’s core experiment was designed to test whether
+restoration can be achieved by harvesting out the overstory
+forest and plugging the drainage ditches to increase
+water retention and hydroperiod.The expectation was that restored hydrologic
+regimes would suppress nonwetland species and favor
+wetland species that recruit from the seed bank or rapidly
+colonize by seed dispersal
+adequate sources of wetland plant species for the restored
+vegetation. ";DB;De Steven, D., Sharitz, R.R., Singer, J.H. & Barton, C.D. (2006) Testing a passive revegetation approach for restoring coastal plain depression wetlands. Restoration Ecology, 14, 452-460.
+21;408;RestorEcol;2012;Frischie;1;3;2004-2005;2;USA;Local;USA;Plantae;Plants;Community;Ecological processes;Experimental;0;0;0;0;0;0;"This study is the first time that the effect of planting
+timing on emergence and plant community diversity has been
+tested in a replicated design. We compared time of summer
+seeding to that of winter seeding to determine the effects on
+establishment and overall diversity of early-maturing species
+in a prairie restoration. We used two indicators to compare the
+establishment success and resulting plant community diversity:
+(1) enumerating the presence/absence (establishment) of each
+species over time and (2) overall diversity and reproductive
+maturity after 4 years.";EBN;Frischie, S.L. & Rowe, H.I. (2012) Replicating Life Cycle of Early-Maturing Species in the Timing of Restoration Seeding Improves Establishment and Community Diversity. Restoration Ecology, 20, 188-193.
+8;91;RestorEcol;2015;Funk;2;6;2010-2013;4;USA;Local;USA;Plantae (mainly serpentine grasses);Plants;Community;Ecological processes;Experimental;0;0;0;0;1;1;"We combined a greenhouse experiment and field manipulations
+to determine how abiotic, biotic, and dispersal filters
+could be manipulated to restore invaded serpentine grassland. A
+greenhouse/growth chamber study examined germination traits
+of 23 native and invasive species under low (spring) and high
+(summer) temperatures and three irrigation regimes to identify
+phenological differences which could be exploited to shift invasion
+dynamics. We then conducted a field experiment where
+grazed and ungrazed plots received summer irrigation and native
+grass seed to assess whether and how these filters interact to
+influence community composition.";EBN;Funk, J.L., Hoffacker, M.K. & Matzek, V. (2015) Summer irrigation, grazing and seed addition differentially influence community composition in an invaded serpentine grassland. Restoration Ecology, 23, 122-130.
+101;434;RestorEcol;2008;Gibbs;2;34;2004;1;Ecuador;Local;USA;"Geochelone nigra
+hoodensis; Opuntia megasperma
+var. Megasperma";Mixed;Community;Ecological processes;Non experimental;1;1;0;0;1;1;"These comparisons permitted us to
+evaluate the hypothesis that the reintroduction of the
+endangered tortoises facilitates recovery of the cactus and
+thus plays a larger role in restoration of the island’s terrestrial
+ecosystem";DB;Gibbs, J.P., Marquez, C. & Sterling, E.J. (2008) The role of endangered species reintroduction in ecosystem restoration: Tortoise-cactus interactions on espanola island, Galapagos. Restoration Ecology, 16, 88-93.
+9;437;RestorEcol;2014;Gilland;1;6;2010;1;USA;Local;USA;Plantae;Plants;Ecosystem;Ecological processes;Quasi experimental;0;0;0;0;1;1;"Specifically, we ask:
+1. Do differences exist among plant communities at different
+microtopographic positions, distances from the remaining
+forest edge, and sites reclaimed using “traditional” methods?
+2. Do differences in physical properties of soil exist among
+microtopographic positions and are these differences
+reflected in plant community composition?
+3. Do differences in the density and composition of woody
+plant colonization exist with increasing distance from a
+forest edge, between end-dump reclaimed sites, and sites
+reclaimed using “traditional” methods?
+By documenting the patterns of natural colonization at the
+site we aim to provide some of the first data on the nature
+of succession on former coal surface mine sites reclaimed
+using the FRA end-dump method compared with traditional
+reclamation.";EBN;Gilland, K.E. & McCarthy, B.C. (2014) Microtopography Influences Early Successional Plant Communities on Experimental Coal Surface Mine Land Reclamation. Restoration Ecology, 22, 232-239.
+10;303;RestorEcol;2012;Greech;2;10;2001-2008;8;USA;Landscape;USA;Plantae;Plants;Ecosystem;Ecological processes;Quasi experimental;0;0;0;0;0;0;"In this study, we examined the effects of slash pile
+burns on soil and vegetation characteristics in the context of ongoing longleaf pine restoration projects. Specifically, we (1) examined alterations to the soil seed bank, soil physical and chemical characteristics, and initial revegetation following burn and (2) determined the rate of return of soil and vegetation characteristics to pre-burn conditions.";EBN;Creech, M.N., Kirkman, L.K. & Morris, L.A. (2012) Alteration and Recovery of Slash Pile Burn Sites in the Restoration of a Fire-Maintained Ecosystem. Restoration Ecology, 20, 505-516.
+141;593;RestorEcol;2011;Klopf;1;19;2005-2006;2;USA;Local;USA;"Sorghastrum nutans; Schizachyrium scoparium";Plants;Population;Ecological processes;Quasi experimental;3;0;0;1;1;1;"The primary objective of this study was to determine
+whether intraspecific variation exists in root structure (i.e.,
+length, surface area, and volume) and function (i.e., soil inorganic
+N depletion) between cultivar and non-cultivar sources
+of dominant grasses used for restoration, and whether this variation
+scales to affect ecosystem structure and function. We
+hypothesized that cultivars would exhibit higher belowground
+net primary production (BNPP) and have more extensive root
+architecture than non-cultivars due to selection for greater
+growth rates that would require larger fine root networks
+to capture more resources and support higher aboveground
+net primary productivity";DB;Klopf, R.P. & Baer, S.G. (2011) Root Dynamics of Cultivar and Non-Cultivar Population Sources of Two Dominant Grasses during Initial Establishment of Tallgrass Prairie. Restoration Ecology, 19, 112-117.
+38;639;RestorEcol;2006;Lezberg;3;9;1999-2003;5;USA;Local;USA;Grasses;Plants;Community;Ecological processes;Experimental;1;0;0;0;1;0;"Our objectives were:
+(1) to determine if mechanical clearing followed by seeding
+would produce an open shrub–grassland community
+colonized by sandplain herbaceous species while retaining
+most of the original forest species and (2) to determine
+if the clearing and seeding treatments would result in
+recruitment of ruderal or exotic species that might restrict
+colonization by native sandplain species or pose future
+problems for conservation land management. We evaluated
+the structure and composition of vascular plants for
+three growing seasons after clearing and seeding. We used
+the results to make recommendations about the wider
+application of this management method.";EBN;Lezberg, A.L., Buresch, K., Neill, C. & Chase, T. (2006) Mechanical land clearing to promote establishment of coastal sandplain grassland and shrubland communities. Restoration Ecology, 14, 220-232.
+110;903;RestorEcol;2010;Sawtschuk;2;5;1992-2008;17;France;Landscape;France;Plants;Plants;Community;Ecological processes;Non experimental;0;0;0;0;1;1;"Our specific research objectives were (1) to describe and
+compare the restoration trajectories of spontaneous vegetation
+evolution at 17 sites in Brittany; (2) to assess the efficiency of
+spontaneous succession as a restoration tool in coastal exposed
+sites; (3) to investigate the link between restoration trajectories
+and environmental conditions; and (4) to test whether the
+trajectory of spontaneous succession can be predicted from
+the current state of vegetation. This study is part of a wider
+research program that aims to improve restoration operations
+by providing technical advice to managers";DB;Sawtschuk, J., Bioret, F. & Gallet, S. (2010) Spontaneous Succession as a Restoration Tool for Maritime Cliff-top Vegetation in Brittany, France. Restoration Ecology, 18, 273-283.
+107;961;RestorEcol;2008;Spiegelberger;3;4;2002;1;Switzerland;Landscape;"Switzerland; France";Plants;Plants;Community;Ecological processes;Quasi experimental;1;1;0;0;1;1;"We
+hypothesized that sawdust addition would overproportionally
+reduce the growth of grasses. No specific predictions
+could be made in terms of the effect of sawdust
+addition on V. album because direct effects of soil N availability
+on V. album cover or biomass have not been studied.
+In general, we predicted that in the long term,
+sawdust addition should promote the competitive ability
+of slow-growing species characteristic of mountain grasslands
+and ultimately lead to increased species richness";DB;Spiegelberger, T., Muller-Scharer, H., Matthies, D. & Schaffner, U. (2009) Sawdust Addition Reduces the Productivity of Nitrogen-Enriched Mountain Grasslands. Restoration Ecology, 17, 865-872.
+31;963;RestorEcol;2014;Stahlheber;1;3;2009-2011;3;USA;Landscape;USA;"Stipa pulchra; Poa secunda";Plants;Population;Ecological processes;Experimental;3;1;0;1;1;1;"We hypothesized that increased moisture beneath savanna trees during the dry season (Parker & Muller 1982; Ishikawa & Bledsoe 2000) would enhance native grass seedling survival in shade, although growth and reproduction responses would depend on the degree of shading (Holmgren et al. 2012).We also hypothesized that high density exotic annual grasses would be detrimental for both natives. Lastly, resource-rich soils derived from beneath oaks may increase growth and reproduction. The net effect of interactions with annuals may also vary among canopy and soil treatments. For example, high nutrients in oak soils may increase growth of the non-native annual grass more so than the  erennial grasses.";EBN;Stahlheber, K.A. & D'Antonio, C.M. (2014) Do Tree Canopies Enhance Perennial Grass Restoration in California Oak Savannas? Restoration Ecology, 22, 574-581.
+35;1009;RestorEcol;2005;Tibbett;1;8;2000-2001;2;UK  ;Local;Australia;Rumex acetosella;Plants;Population;Ecological processes;Experimental;2;0;0;1;0;1;"The experimental work had three aims. First, to
+determine whether sulfurous soil amendments are able to
+lower pH to a level suitable for heathland and acidic grassland
+re-creation (approximately 3 pH units). Second, to
+determine what effect the soil amendments have on the
+available pool of some important nutrients, basic cations,
+and some potentially toxic acidic cations that may affect
+the plant community. Third, to determine whether the
+addition of Fe to the soil system would sequester PO4
+2 ions that might be liberated from rock phosphate by the
+experimental treatments.";EBN;Tibbett, M. & Diaz, A. (2005) Are sulfurous soil amendments (S(0), Fe((II))SO(4), Fe((III))SO(4)) an effective tool in the restoration of heathland and acidic grassland after four decades of rock phosphate fertilization? Restoration Ecology, 13, 83-91.
+43;1047;RestorEcol;2005;Van Zandt;3;8;2003;1;USA;Local;USA;"plants; invertebrates; lizards";Mixed;Ecosystem;Ecological processes;Non experimental;2;0;0;1;1;1;"We suspected that a trophic cascade (i.e., an indirect
+positive effect of predators on plants through their negative effects on herbivores) due to Sceloporus feeding in glade habitats might decrease herbivory on target plants, thus potentially increasing the transplant success of glade endemics and facilitating glade restoration efforts. We further predicted that herbivory would be reduced on plants that occurred near structures supporting lizards, relative to plants that were not near lizard-occupied structures. We tested this hypothesis through surveys of lizard activity,  rasshopper abundance, and plant damage in natural
+glades, along with an experiment in which we planted
+glade plants at three different distances from cover objects to simulate common restoration practices in a glade that is currently undergoing restoration.";EBN;Van Zandt, P.A., Collins, E., Losos, J.B. & Chase, J.M. (2005) Implications of food web interactions for restoration of Missouri Ozark glade habitats. Restoration Ecology, 13, 312-317.
+143;1093;RestorEcol;2006;Wightman;1;15;1999-2003;5;USA;Local;USA;Sialia mexicana;Vertebrates;Population;Ecological processes;Non experimental;1;0;0;0;0;0;"We evaluated associations between Western Bluebird
+reproductive success and habitat characteristics on the forest
+stand and nest-site scale. Our objectives were to (1)
+identify model(s) of habitat features altered by restoration
+that best predicted nest success; (2) identify habitat features
+altered by restoration that were associated with nest
+productivity; and (3) model the changes in habitat quality
+after treatments were implemented across a landscape";DB;Wightman, C.S. & Germaine, S.S. (2006) Forest stand characteristics altered by restoration affect Western Bluebird habitat quality. Restoration Ecology, 14, 653-661.
+17;1119;RestorEcol;2006;Yuan;5;24;2003;1;China;Landscape;China;Plantae;Plants;Community;Ecological processes;Non experimental;3;0;0;0;0;0;"To understand
+soil and plant development in this extreme habitat, we
+investigated the changes in edaphic conditions and
+natural vegetation on the cliff faces of three abandoned
+quarries in the early stages of natural succession. By doing
+so, we may provide the much needed knowledge for better
+management decisions. We hypothesized that soil on
+quarry cliffs was formed from rock weathering (primary
+succession), and consequently vegetation establishment, if
+not impossible, was highly limited by the putatively low soil fertility in the early years of abandonment. The relationship
+between soil origination and vegetation succession
+was explored, and the implications of the results are
+discussed.";EBN;Yuan, J.G., Fang, W., Fan, L., Chen, Y., Wang, D.Q. & Yang, Z.Y. (2006) Soil formation and vegetation establishment on the cliff face of abandoned quarries in the early stages of natural colonization. Restoration Ecology, 14, 349-356.
