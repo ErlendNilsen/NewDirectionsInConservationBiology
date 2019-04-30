@@ -50,6 +50,7 @@ p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
 
 p+coord_flip()
 
+ggsave("Fig1a.png")
 
 
 ############################################################################
@@ -81,6 +82,8 @@ p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limit
         legend.position="right") + guides(size=FALSE) + 
   scale_size(range = c(2, 30)) +
   labs(colour="Annual citations")
+
+ggsave("Fig1b.png")
 
 
 ###########################################################
