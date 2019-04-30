@@ -1,0 +1,181 @@
+---
+title: 'Box 1: State of conservation biology as a science'
+author: "Erlend B. Nilsen"
+date: "28 april 2019"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r SUMMARY STATS, warning=FALSE, echo=FALSE, error=FALSE, message=FALSE}
+
+####################################################################################
+##### Loading libraries
+
+library(tidyverse)
+library(ggplot2)
+library(here)
+library(viridis)
+
+#####################################################################################
+##### Reading data / data wrangling; 
+
+d <- as_tibble(read.csv2(here("data", "Data_LittSurvey_Box1.csv")))
+
+
+d <- d %>% mutate(Hypo=ifelse(Clearly.stated.hypothesis>1, 1, 0)) %>%
+  mutate(Experiment=ifelse(Study.design=="Experimental", 1,0)) %>%
+  mutate(YearLaps=abs(Year-2016)) %>%
+  mutate(Scope2=ifelse(Scope=="Methods", "Methods", "Biodiversity response")) %>%
+  mutate(Hypothesis2=Clearly.stated.hypothesis) %>% 
+  mutate(Hypothesis2=ifelse(Hypothesis2==0, "No", 
+                     ifelse(Hypothesis2==1, "Partly", 
+                     ifelse(Hypothesis2==2, "Implied", "Clearly stated")))) %>% 
+  mutate(Exper_citation=ifelse(Study.design=="Non experimental", 1, 
+                                        ifelse(Study.design=="Experimental", 3, 2))) %>%
+  mutate(scale_citation=ifelse(Spatial.scale=="Local", 1, 
+                               ifelse(Spatial.scale=="Landscape", 2, 3))) %>%
+  mutate(citation_year=Number.of.citations/(2017-Year))
+
+######################################################################################
+## Data summary for plotting and reporting
+
+## Number of articles presenting hypothesis
+## All studies
+
+Hypothesis_prop <- d %>% group_by(Hypothesis2, Scope2) %>%
+  count(Clearly.stated.hypothesis) %>%
+  mutate(prop=prop.table(n)) %>%
+  mutate(Hypothesis3= factor(Hypothesis2, 
+        levels=c("No", "Implied", "Partly", "Clearly stated"))) %>%
+mutate(Scope3= factor(Scope2, levels=c("Methods", "Biodiversity response")))
+
+## Spatial scale, experimental design and citation rates; 
+citation_table1 <- d %>% filter(Scope!="Methods") %>%
+  group_by(Exper_citation, scale_citation) %>% 
+  summarise(N_citat=quantile(citation_year, probs=c(0.75)), antall=n()) %>%
+  mutate(prop=prop.table(antall))
+
+###########################################################
+### NUMBERS FOR THE TEXT: 
+
+### Proportions; 
+
+Hypothesis_prop2 <- d %>%
+  mutate(Hyp_pooled=ifelse(Hypothesis2=="Partly", "Implied", Hypothesis2)) %>%
+  count(Hyp_pooled) %>%
+  mutate(prop=prop.table(n))
+
+  Overall_clear <- Hypothesis_prop2 %>%
+                   filter(Hyp_pooled=="Clearly stated") %>%
+                   select(prop)
+  Overall_Implied <- Hypothesis_prop2 %>%
+                   filter(Hyp_pooled=="Implied") %>%
+                   select(prop)
+
+
+### Removing methods; 
+
+Hypothesis_prop3 <- d %>%
+  mutate(Hyp_pooled=ifelse(Hypothesis2=="Partly", "Implied", Hypothesis2)) %>%
+  filter(Scope!="Methods") %>%
+  count(Hyp_pooled) %>%
+  mutate(prop=prop.table(n))
+
+  Biodiv_clear <- Hypothesis_prop3 %>%
+                   filter(Hyp_pooled=="Clearly stated") %>%
+                   select(prop)
+  Biodiv_Implied <- Hypothesis_prop3 %>%
+                   filter(Hyp_pooled=="Implied") %>%
+                   select(prop)
+
+
+## Multiple Competing Hypotheses
+  
+  MCH <- d %>% count(Test.multiple.competing.hypotheses) 
+           
+  
+
+### Experiments; 
+
+Exp_prop <- d %>% filter(Scope!="Methods") %>%
+  count(Exper_citation) %>%
+  mutate(prop=prop.table(n))
+  
+
+```
+
+ 
+In a seminal paper from 1994, G. Caughley (Caughley 1994) was concerned that parts of conservation biology (the branch concerned with declining populations) had a very thin theoretical basis, was carried out mainly as a series of case studies, and therefore often had  limited generalisable value. In line with many other philosophers of science, Caughley suggested that much more rapid progress would be made if conservation biologists applied the strong inference paradigm (sensu Platt 1964) when designing and conducting research.  
+
+To gain a rapid insight into the current state of affairs in the scientific conservation literature, we randomly sampled `r paste(dim(d)[1])` papers published in eight journals covering conservation biology, applied ecology and wildlife management. We only included studies from terrestrial ecology, that were data-driven (i.e. not reviews or pure simulation studies), that presented the results from at least one statistical test, that presented original data or data from literature surveys, and focused on conservation biology. From these studies, we assessed i) to which extent one or more clearly stated hypotheses were presented in the introduction, ii) whether there were multiple competing hypothesis and, iii) whether they applied an experimental study design. In addition, we extracted the number of citations registered by Web of Science. A more comprehensive description of the inclusion criteria and data extraction procedures can be found in **Appendix S1**.  
+
+Based on our sample of research papers, it seems that clearly stating a research hypothesis in the introduction is surprisingly rare in the literature (**Fig 1a**). Overall, only about `r round(Overall_clear, 2)*100`% of the studies presented clear hypothesis, whereas about `r round(Overall_Implied, 2)*100`% presented what we term “implied hypotheses” or “partly”, where the hypothesis could be inferred from the text but was not presented clearly. After removing articles mainly focusing on methods development, the corresponding proportions were `r round(Biodiv_clear, 2)*100`% (clear hypothesis) and `r round(Biodiv_Implied, 2)*100`% (implied), respectively. Presenting multiple competing hypothesis, as described in the original presentation of the strong inference paradigm (Platt 1964) is even rarer, and only `r paste(MCH[2,2])` of the studies we reviewed.  
+
+Another hallmark of science is the use of well planned, randomized and replicated experimental manipulation to test for causal relationships (Platt 1964; Caughley 1994). Based on our review, however, the use of full experimental designs are rare, and only `r round(Exp_prop$prop[3], 2)*100`% of the studies we reviewed were based on randomized controlled experimental designs. In addition, `r round(Exp_prop$prop[2], 2)*100`% of the studies in our sample included Before-After-Control-Impact (BACI) or Quasi-experimental protocols. The majority of the randomized controlled experiments were performed on a local spatial scale (**Fig 1b**), although a few studies presented landscape scale experiments. In our sample, local scale studies in general received less attention in the literature compared to studies spanning larges spatial scales (**Fig 1b**).  
+ 
+ 
+## Figure Legends
+
+
+**Figure 1**. *In* **a)** *the proportion of articles that reported clear hypotheses, implied or partly indicated hypotheses that were tested, and articles that did not present hypotheses. In* **b)** *the proportion of articles that used experimental, quasi-experimental/BACI or no experimental designs are matched with the corresponding spatial scales of the studies. The size of the circles indicates the number of studies. The colour key indicates citation rates (mean annual number of citations since the year of publication).*   
+
+ 
+\pagebreak
+
+
+ 
+```{r FIGURE 1A. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE}
+
+p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
+  geom_bar(stat="identity", width=0.7, ) +
+  theme_minimal() + 
+  theme(text = element_text(size=12), legend.position = "bottom", legend.title = element_blank()) +
+  ylim(0, 100)+
+  labs(x="", y="Number of articles", title="") + 
+  scale_fill_brewer(palette="Blues")
+
+p+coord_flip()
+
+
+```
+ 
+**Fig 1a**
+
+
+
+```{r FIGURE 1B. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE, fig.width = 10, fig.height=6}
+
+p <- ggplot(data=citation_table1, aes(x=scale_citation, y=Exper_citation, size=antall)) +
+  geom_point(aes(colour=N_citat)) +
+  scale_colour_gradient(low = "grey", high = "yellow")  
+
+p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limits=c(1,2,3)) +
+  scale_y_discrete(labels=c("No experiement", "Quasi/BACI", "Full experiment"), limits=c(1,2,3)) +
+  theme(axis.title=element_blank(),
+        text = element_text(size=20),
+        legend.position="right") + guides(size=FALSE) + 
+  scale_size(range = c(2, 30)) +
+  labs(colour="Annual citations")
+
+```
+
+**Fig 1b**
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
