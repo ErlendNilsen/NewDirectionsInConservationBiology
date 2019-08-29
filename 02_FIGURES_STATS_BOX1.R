@@ -83,7 +83,7 @@ p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limit
   scale_size(range = c(2, 30)) +
   labs(colour="Annual citations")
 
-ggsave("Fig1b.png")
+ggsave("Fig1b.png", width = 20, height = 15, units = "cm")
 
 
 ###########################################################
