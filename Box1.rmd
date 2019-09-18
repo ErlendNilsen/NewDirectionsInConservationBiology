@@ -1,7 +1,7 @@
 ---
-title: 'Box 1: State of conservation biology as a science'
+title: 'Box 1: State of applied ecology as a science'
 author: "Erlend B. Nilsen"
-date: "28 april 2019"
+date: "18 September 2019"
 output: word_document
 ---
 
@@ -109,38 +109,18 @@ Exp_prop <- d %>% filter(Scope!="Methods") %>%
 
 ```
 
- 
-In a seminal paper from 1994, G. Caughley (Caughley 1994) was concerned that parts of conservation biology (the branch concerned with declining populations) had a
-very thin theoretical basis, was carried out mainly as a series of case studies, and therefore often had  limited generalisable value. In line with many other
-philosophers of science, Caughley suggested that much more rapid progress would be made if conservation biologists applied the strong inference paradigm (sensu Platt
-1964) when designing and conducting research.  
+To gain a rapid insight into the current state of affairs in the scientific literature in applied ecology, we randomly sampled `r paste(dim(d)[1])` papers published in eight journals covering conservation biology, applied ecology and wildlife management. We only included studies from terrestrial ecology, that were data-driven (i.e. not reviews or pure simulation studies), that presented the results from at least one statistical test, that presented original data or data from literature surveys, and focused on aspects of applied ecology relevant for biodiversity conservation. From these studies, we assessed i) to which extent one or more clearly stated hypotheses were presented in the introduction, ii) whether there were multiple competing hypothesis and, iii) whether they applied an experimental study design. In addition, we extracted the number of citations registered by Web of Science. A more comprehensive description of the inclusion criteria and data extraction procedures can be found in **Appendix S1**.   
 
-To gain a rapid insight into the current state of affairs in the scientific conservation literature, we randomly sampled `r paste(dim(d)[1])` papers published in
-eight journals covering conservation biology, applied ecology and wildlife management. We only included studies from terrestrial ecology, that were data-driven (i.e.
-not reviews or pure simulation studies), that presented the results from at least one statistical test, that presented original data or data from literature surveys,
-and focused on conservation biology. From these studies, we assessed i) to which extent one or more clearly stated hypotheses were presented in the introduction, ii)
-whether there were multiple competing hypothesis and, iii) whether they applied an experimental study design. In addition, we extracted the number of citations
-registered by Web of Science. A more comprehensive description of the inclusion criteria and data extraction procedures can be found in **Appendix S1**.  
+Based on our sample of research papers, it seems that clearly stating a research hypothesis in the introduction is surprisingly rare in the literature (**Fig 1a**). Overall, only about `r round(Overall_clear, 2)*100`% of the studies presented clear hypotheses, whereas about `r round(Overall_Implied, 2)*100`% presented what we term “implied hypotheses” or “partly”, where the hypothesis could be inferred from the text but was not presented clearly. After removing articles mainly focusing on methods development, the corresponding proportions were `r round(Biodiv_clear, 2)*100`% (explicit hypotheses) and `r round(Biodiv_Implied, 2)*100`% (implicit hypotheses), respectively. Presenting multiple competing hypothesis, as described in the original presentation of the strong inference paradigm (Platt 1964) is even rarer, and only visible in `r paste(MCH[2,2])` of the studies we reviewed.  
 
-Based on our sample of research papers, it seems that clearly stating a research hypothesis in the introduction is surprisingly rare in the literature (**Fig 1a**).
-Overall, only about `r round(Overall_clear, 2)*100`% of the studies presented clear hypothesis, whereas about `r round(Overall_Implied, 2)*100`% presented what we
-term “implied hypotheses” or “partly”, where the hypothesis could be inferred from the text but was not presented clearly. After removing articles mainly focusing on
-methods development, the corresponding proportions were `r round(Biodiv_clear, 2)*100`% (clear hypothesis) and `r round(Biodiv_Implied, 2)*100`% (implied),
-respectively. Presenting multiple competing hypothesis, as described in the original presentation of the strong inference paradigm (Platt 1964) is even rarer, and
-only `r paste(MCH[2,2])` of the studies we reviewed.  
+Another hallmark of science is the use of well planned, randomized and replicated experimental manipulation to test for causal relationships (Platt 1964; Caughley 1994). Based on our review, however, the use of full experimental designs are rare, and only `r round(Exp_prop$prop[3], 2)*100`% of the studies we reviewed were based on randomized controlled experimental designs. In addition, `r round(Exp_prop$prop[2], 2)*100`% of the studies in our sample included Before-After-Control-Impact (BACI) or Quasi-experimental protocols. The majority of the randomized controlled experiments were performed on a local spatial scale (**Fig 1b**), although a few studies presented landscape scale experiments. In our sample, local scale studies in general received less attention in the literature compared to studies spanning larges spatial scales when measured in terms of citation rates (**Fig 1b**).    
 
-Another hallmark of science is the use of well planned, randomized and replicated experimental manipulation to test for causal relationships (Platt 1964; Caughley
-1994). Based on our review, however, the use of full experimental designs are rare, and only `r round(Exp_prop$prop[3], 2)*100`% of the studies we reviewed were based
-on randomized controlled experimental designs. In addition, `r round(Exp_prop$prop[2], 2)*100`% of the studies in our sample included Before-After-Control-Impact
-(BACI) or Quasi-experimental protocols. The majority of the randomized controlled experiments were performed on a local spatial scale (**Fig 1b**), although a few
-studies presented landscape scale experiments. In our sample, local scale studies in general received less attention in the literature compared to studies spanning
-larges spatial scales (**Fig 1b**).  
  
  
 ## Figure Legends
 
 
-**Figure 1**. *In* **a)** *the proportion of articles that reported clear hypotheses, implied or partly indicated hypotheses that were tested, and articles that did not present hypotheses. In* **b)** *the proportion of articles that used experimental, quasi-experimental/BACI or no experimental designs are matched with the corresponding spatial scales of the studies. The size of the circles indicates the number of studies. The colour key indicates citation rates (mean annual number of citations since the year of publication).*   
+**Figure 1.** *In* **a)** *the proportion of articles that reported clear hypotheses, implied or partly indicated hypotheses that were tested, and articles that did not present hypotheses. In* **b)** *the proportion of articles that used experimental, quasi-experimental/BACI or no experimental designs are matched with the corresponding spatial scales of the studies. The size of the circles indicates the number of studies. The colour key indicates citation rates (mean annual number of citations since the year of publication).*     
 
  
 
@@ -155,6 +135,8 @@ p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
   scale_fill_brewer(palette="Blues")
 
 p+coord_flip()
+
+ggsave("Fig1a.png", plot=last_plot())
 
 
 ```
@@ -176,6 +158,8 @@ p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limit
         legend.position="right") + guides(size=FALSE) + 
   scale_size(range = c(2, 30)) +
   labs(colour="Annual citations")
+
+ggsave("Fig1b.png", plot=last_plot())
 
 ```
 
