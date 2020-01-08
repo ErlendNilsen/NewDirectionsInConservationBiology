@@ -26,6 +26,7 @@ d <- d %>% mutate(Hypo=ifelse(Clearly.stated.hypothesis>1, 1, 0)) %>%
 
 ## Plotting results; 
 ## Clearly stated hypothesis; 
+## Figure 1a
 
 Hypothesis_prop <- d %>% group_by(Hypothesis2, Scope2) %>%
   count(Clearly.stated.hypothesis) %>%
@@ -43,7 +44,8 @@ Hypothesis_prop2 <- d %>%
 p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
   geom_bar(stat="identity", width=0.7, ) +
   theme_minimal() + 
-  theme(text = element_text(size=12), legend.position = "bottom", legend.title = element_blank()) +
+  theme(text = element_text(size=15), legend.position = "bottom", legend.title = element_blank(), 
+        axis.text.y = element_text(size=17)) +
   ylim(0, 100)+
   labs(x="", y="Number of articles", title="") + 
   scale_fill_brewer(palette="Blues")
@@ -54,7 +56,7 @@ ggsave("Fig1a.png")
 
 
 ############################################################################
-#### FIGURE 2: 
+#### FIGURE 1b: 
 
 d <- d %>% mutate(Exper_citation=ifelse(Study.design=="Non experimental", 1, 
                                         ifelse(Study.design=="Experimental", 3, 2))) %>%
@@ -69,17 +71,20 @@ citation_table1 <- d %>% filter(Scope!="Methods") %>%
 
 ###################
 
-
-
 p <- ggplot(data=citation_table1, aes(x=scale_citation, y=Exper_citation, size=antall)) +
   geom_point(aes(colour=N_citat)) +
   scale_colour_gradient(low = "grey", high = "yellow")  
 
 p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limits=c(1,2,3)) +
   scale_y_discrete(labels=c("No experiement", "Quasi/BACI", "Full experiment"), limits=c(1,2,3)) +
+  theme_minimal()+
   theme(axis.title=element_blank(),
         text = element_text(size=15),
-        legend.position="right") + guides(size=FALSE) + 
+        legend.position="right",
+        axis.text.x = element_text(size=16),
+        axis.text.y = element_text(size=17)) + 
+  
+  guides(size=FALSE) + 
   scale_size(range = c(2, 30)) +
   labs(colour="Annual citations")
 

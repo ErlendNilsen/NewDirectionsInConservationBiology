@@ -1,7 +1,7 @@
 ---
 title: 'Box 1: Hypotheses and experiments in applied ecology'
 author: "Erlend B. Nilsen"
-date: "19 November 2019"
+date: "January 8th 2020"
 output: word_document
 ---
 
@@ -122,12 +122,13 @@ Another hallmark of science is the use of well planned, randomized and replicate
 
  
 
-```{r FIGURE 1A. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE}
+```{r FIGURE 1A. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE, fig.width = 8, fig.height=8}
 
 p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
   geom_bar(stat="identity", width=0.7, ) +
   theme_minimal() + 
-  theme(text = element_text(size=12), legend.position = "bottom", legend.title = element_blank()) +
+  theme(text = element_text(size=15), legend.position = "bottom", legend.title = element_blank(), 
+        axis.text.y = element_text(size=17)) +
   ylim(0, 100)+
   labs(x="", y="Number of articles", title="") + 
   scale_fill_brewer(palette="Blues")
@@ -135,6 +136,7 @@ p <- ggplot(data=Hypothesis_prop, aes(x=Hypothesis3, y=n, fill=Scope3)) +
 p+coord_flip()
 
 ggsave("Fig1a.png", plot=last_plot())
+ggsave("Figure_1a.pdf", plot=last_plot(), width = 8, height = 8, dpi=600)
 
 
 ```
@@ -143,7 +145,7 @@ ggsave("Fig1a.png", plot=last_plot())
 
 
 
-```{r FIGURE 1B. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE, fig.width = 10, fig.height=6}
+```{r FIGURE 1B. , warning=FALSE, echo=FALSE, error=FALSE, message=FALSE, fig.width = 8, fig.height=8}
 
 p <- ggplot(data=citation_table1, aes(x=scale_citation, y=Exper_citation, size=antall)) +
   geom_point(aes(colour=N_citat)) +
@@ -153,12 +155,19 @@ p + scale_x_discrete(labels=c("Local scale", "Landscape", "Larger scale"), limit
   scale_y_discrete(labels=c("No experiement", "Quasi/BACI", "Full experiment"), limits=c(1,2,3)) +
   theme_minimal()+
   theme(axis.title=element_blank(),
-        text = element_text(size=20),
-        legend.position="right") + guides(size=FALSE) + 
+        text = element_text(size=15),
+        legend.position="right",
+        axis.text.x = element_text(size=16),
+        axis.text.y = element_text(size=17)) + 
+  
+  guides(size=FALSE) + 
   scale_size(range = c(2, 30)) +
   labs(colour="Annual citations")
 
 ggsave("Fig1b.png", plot=last_plot())
+ggsave("Figure_1b.pdf", plot=last_plot(), width = 8, height = 8, dpi=600)
+
+
 
 ```
 
